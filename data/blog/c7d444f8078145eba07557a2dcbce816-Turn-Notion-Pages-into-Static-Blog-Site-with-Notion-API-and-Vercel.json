@@ -2,7 +2,7 @@
   "object": "page",
   "id": "c7d444f8-0781-45eb-a075-57a2dcbce816",
   "created_time": "2022-03-28T11:25:00.000Z",
-  "last_edited_time": "2022-04-01T01:55:00.000Z",
+  "last_edited_time": "2022-04-01T02:30:00.000Z",
   "created_by": { "object": "user", "id": "06d19bad-3e46-4f88-a82f-6e42f5b09136" },
   "last_edited_by": { "object": "user", "id": "06d19bad-3e46-4f88-a82f-6e42f5b09136" },
   "cover": null,
@@ -24,7 +24,7 @@
     "Updated": {
       "id": "ePJl",
       "type": "last_edited_time",
-      "last_edited_time": "2022-04-01T01:55:00.000Z"
+      "last_edited_time": "2022-04-01T02:30:00.000Z"
     },
     "Created": { "id": "qqlW", "type": "created_time", "created_time": "2022-03-28T11:25:00.000Z" },
     "Slug": {
@@ -66,7 +66,7 @@
         "role": "reader",
         "value": {
           "id": "c7d444f8-0781-45eb-a075-57a2dcbce816",
-          "version": 616,
+          "version": 631,
           "type": "page",
           "properties": {
             "TO}@": [["Yes"]],
@@ -96,10 +96,8 @@
             "e1d4edd9-df4b-46d0-a32e-44a58764cc83",
             "10693cc5-c18e-476a-8ed8-4ec654e01f7d",
             "2127eecc-8a26-4572-9a6b-c646aee9a536",
-            "df3d2392-4984-410c-b20f-a784b6bc22cf",
             "9e8d9b3f-224b-4834-ad64-b371cabdea5a",
             "3a8b254f-1f61-46e4-82e3-19a6e859f628",
-            "021db401-a648-46fb-8731-1ee8dbedf99c",
             "2594eb17-a458-4371-86fd-f03fa3ea3c84",
             "8c616564-9572-43e5-a2ce-6c48d8be71c3",
             "92159b8e-0967-450a-adc1-ed7f0f09b75a",
@@ -116,9 +114,8 @@
             "f3bb85ba-897b-4224-9d1a-ea460ebcae93",
             "970dc49e-86fb-480a-ae50-3345cad27c24",
             "db50ad73-48e9-4f38-aa8a-25460e635270",
-            "7adb108e-aa4d-4261-99ce-d2ad6e6ba2a6",
             "7a9dbd4e-f4d7-4727-8eca-478ac7ae0bbb",
-            "a0ebee27-5bff-43bd-b52f-eba030abef86",
+            "4cac6146-d394-4d71-83f6-a2667a79539d",
             "732d8a01-7320-4a6c-bee4-42828f061ea5",
             "1c4ad896-7a83-4901-b509-a199d46f3283",
             "4be4f16b-2b96-4431-8ac1-d07f5e9f9be2",
@@ -127,7 +124,6 @@
             "db667995-c5da-4891-8bd6-f6806efa0968",
             "06751864-11df-4f93-b4c9-21d3f018b8f0",
             "9b9bd85e-2b1d-443b-85ff-6716905bc145",
-            "0bb4427d-7470-4fa9-8f03-4dbb262631ae",
             "de6ebf2c-83c3-485a-8a05-ea435d9357c0",
             "68b6d234-5ca8-49db-84b1-06be2bd31a3c",
             "138a3767-aa1b-4b6c-83c6-c27a0eb1519e",
@@ -146,7 +142,7 @@
             "95d45f06-2039-4760-a523-946c0c40a2be"
           ],
           "created_time": 1648466700000,
-          "last_edited_time": 1648778100000,
+          "last_edited_time": 1648780200000,
           "parent_id": "85cf5c11-0761-4d79-a0c1-ca451828c97d",
           "parent_table": "collection",
           "alive": true,
@@ -161,7 +157,7 @@
         "role": "reader",
         "value": {
           "id": "e17d56ae-9ee0-45a9-bf07-c57e39f29d3b",
-          "version": 557,
+          "version": 558,
           "type": "collection_view_page",
           "view_ids": [
             "980d8e69-776b-4151-a4f3-118c8192bfec",
@@ -191,7 +187,7 @@
             { "role": "reader", "type": "public_permission", "added_timestamp": 1648555162360 }
           ],
           "created_time": 1648450709676,
-          "last_edited_time": 1648777120467,
+          "last_edited_time": 1648779244998,
           "parent_id": "1527a998-78d1-4636-a8c0-f1317a5261e6",
           "parent_table": "space",
           "alive": true,
@@ -656,36 +652,10 @@
         "role": "reader",
         "value": {
           "id": "2127eecc-8a26-4572-9a6b-c646aee9a536",
-          "version": 9,
+          "version": 11,
           "type": "text",
           "created_time": 1648611600000,
-          "last_edited_time": 1648611600000,
-          "parent_id": "c7d444f8-0781-45eb-a075-57a2dcbce816",
-          "parent_table": "block",
-          "alive": true,
-          "created_by_table": "notion_user",
-          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
-          "last_edited_by_table": "notion_user",
-          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
-          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
-        }
-      },
-      "df3d2392-4984-410c-b20f-a784b6bc22cf": {
-        "role": "reader",
-        "value": {
-          "id": "df3d2392-4984-410c-b20f-a784b6bc22cf",
-          "version": 3,
-          "type": "text",
-          "properties": {
-            "title": [
-              [
-                "https://dev.to/solomon04/build-a-blog-powered-by-nextjs-notion-api-57pj",
-                [["a", "https://dev.to/solomon04/build-a-blog-powered-by-nextjs-notion-api-57pj"]]
-              ]
-            ]
-          },
-          "created_time": 1648611600000,
-          "last_edited_time": 1648611600000,
+          "last_edited_time": 1648779780000,
           "parent_id": "c7d444f8-0781-45eb-a075-57a2dcbce816",
           "parent_table": "block",
           "alive": true,
@@ -700,17 +670,22 @@
         "role": "reader",
         "value": {
           "id": "9e8d9b3f-224b-4834-ad64-b371cabdea5a",
-          "version": 279,
+          "version": 281,
           "type": "text",
           "properties": {
             "title": [
+              ["This "],
               [
-                "This blog does give a great intro to integrate Notion API, but it’s not really a static website, every time the client request a page, it will call the api directly to Notion, which might hit a limit very quickly"
+                "blog",
+                [["a", "https://dev.to/solomon04/build-a-blog-powered-by-nextjs-notion-api-57pj"]]
+              ],
+              [
+                " does give a great intro to integrate Notion API, but it’s not really a static website, every time the client request a page, it will call the api directly to Notion, which might hit a limit very quickly"
               ]
             ]
           },
           "created_time": 1648611600000,
-          "last_edited_time": 1648611960000,
+          "last_edited_time": 1648779780000,
           "parent_id": "c7d444f8-0781-45eb-a075-57a2dcbce816",
           "parent_table": "block",
           "alive": true,
@@ -725,41 +700,10 @@
         "role": "reader",
         "value": {
           "id": "3a8b254f-1f61-46e4-82e3-19a6e859f628",
-          "version": 6,
+          "version": 8,
           "type": "text",
           "created_time": 1648611960000,
-          "last_edited_time": 1648611960000,
-          "parent_id": "c7d444f8-0781-45eb-a075-57a2dcbce816",
-          "parent_table": "block",
-          "alive": true,
-          "created_by_table": "notion_user",
-          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
-          "last_edited_by_table": "notion_user",
-          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
-          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
-        }
-      },
-      "021db401-a648-46fb-8731-1ee8dbedf99c": {
-        "role": "reader",
-        "value": {
-          "id": "021db401-a648-46fb-8731-1ee8dbedf99c",
-          "version": 16,
-          "type": "text",
-          "properties": {
-            "title": [
-              [
-                "https://dev.to/koddr/using-the-notion-page-as-a-personal-website-with-your-domain-on-cloudflare-1pi7",
-                [
-                  [
-                    "a",
-                    "https://dev.to/koddr/using-the-notion-page-as-a-personal-website-with-your-domain-on-cloudflare-1pi7"
-                  ]
-                ]
-              ]
-            ]
-          },
-          "created_time": 1648611960000,
-          "last_edited_time": 1648612200000,
+          "last_edited_time": 1648779780000,
           "parent_id": "c7d444f8-0781-45eb-a075-57a2dcbce816",
           "parent_table": "block",
           "alive": true,
@@ -774,17 +718,27 @@
         "role": "reader",
         "value": {
           "id": "2594eb17-a458-4371-86fd-f03fa3ea3c84",
-          "version": 225,
+          "version": 250,
           "type": "text",
           "properties": {
             "title": [
+              ["There’s another "],
               [
-                "This blog introduces Cloudflare workers to cache the page, which will not overload the Notion API, but however, I do not see this as the fastest way to build a blog site"
+                "blog",
+                [
+                  [
+                    "a",
+                    "https://dev.to/koddr/using-the-notion-page-as-a-personal-website-with-your-domain-on-cloudflare-1pi7"
+                  ]
+                ]
+              ],
+              [
+                " introduces Cloudflare workers to cache the page, which will not overload the Notion API, but however, I do not see this as the fastest way to build a blog site"
               ]
             ]
           },
           "created_time": 1648612260000,
-          "last_edited_time": 1648777500000,
+          "last_edited_time": 1648779780000,
           "parent_id": "c7d444f8-0781-45eb-a075-57a2dcbce816",
           "parent_table": "block",
           "alive": true,
@@ -1094,15 +1048,12 @@
         "role": "reader",
         "value": {
           "id": "db50ad73-48e9-4f38-aa8a-25460e635270",
-          "version": 79,
+          "version": 85,
           "type": "text",
           "properties": {
             "title": [
               ["For the ui, I’m using "],
-              [
-                "https://github.com/timlrx/tailwind-nextjs-starter-blog",
-                [["a", "https://github.com/timlrx/tailwind-nextjs-starter-blog"]]
-              ],
+              ["‣", [["eoi", "218cc2b7-d0fc-4288-98a3-37981f48c7c1"]]],
               [" as the starter, and modify some sites data (all data lies in "],
               ["data", [["c"]]],
               [
@@ -1110,29 +1061,12 @@
               ],
               ["lib", [["c"]]],
               [" library and render page logic (by using "],
-              ["NotionRenderer", [["c"]]]
+              ["NotionRenderer", [["c"]]],
+              [")"]
             ]
           },
           "created_time": 1648617960000,
-          "last_edited_time": 1648778100000,
-          "parent_id": "c7d444f8-0781-45eb-a075-57a2dcbce816",
-          "parent_table": "block",
-          "alive": true,
-          "created_by_table": "notion_user",
-          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
-          "last_edited_by_table": "notion_user",
-          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
-          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
-        }
-      },
-      "7adb108e-aa4d-4261-99ce-d2ad6e6ba2a6": {
-        "role": "reader",
-        "value": {
-          "id": "7adb108e-aa4d-4261-99ce-d2ad6e6ba2a6",
-          "version": 6,
-          "type": "text",
-          "created_time": 1648777800000,
-          "last_edited_time": 1648777800000,
+          "last_edited_time": 1648779660000,
           "parent_id": "c7d444f8-0781-45eb-a075-57a2dcbce816",
           "parent_table": "block",
           "alive": true,
@@ -1147,15 +1081,10 @@
         "role": "reader",
         "value": {
           "id": "7a9dbd4e-f4d7-4727-8eca-478ac7ae0bbb",
-          "version": 87,
+          "version": 91,
           "type": "text",
-          "properties": {
-            "title": [
-              ["You can check out my repo to the blog site here (you can use it as your starter:"]
-            ]
-          },
-          "created_time": 1648777800000,
-          "last_edited_time": 1648777860000,
+          "created_time": 1648779660000,
+          "last_edited_time": 1648779660000,
           "parent_id": "c7d444f8-0781-45eb-a075-57a2dcbce816",
           "parent_table": "block",
           "alive": true,
@@ -1166,22 +1095,29 @@
           "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
         }
       },
-      "a0ebee27-5bff-43bd-b52f-eba030abef86": {
+      "4cac6146-d394-4d71-83f6-a2667a79539d": {
         "role": "reader",
         "value": {
-          "id": "a0ebee27-5bff-43bd-b52f-eba030abef86",
-          "version": 8,
+          "id": "4cac6146-d394-4d71-83f6-a2667a79539d",
+          "version": 27,
           "type": "text",
           "properties": {
             "title": [
+              ["You can check out my "],
               [
-                "https://github.com/wenwkich/fluidfeed",
-                [["a", "https://github.com/wenwkich/fluidfeed"]]
-              ]
+                "repo",
+                [["a", "https://github.com/wenwkich/notion-x-nextjs-tailwind-starter-blog"]]
+              ],
+              [" to the blog site (you can also use the "],
+              [
+                "starter",
+                [["a", "https://github.com/wenwkich/notion-x-nextjs-tailwind-starter-blog"]]
+              ],
+              ["):"]
             ]
           },
-          "created_time": 1648618140000,
-          "last_edited_time": 1648778100000,
+          "created_time": 1648777800000,
+          "last_edited_time": 1648780200000,
           "parent_id": "c7d444f8-0781-45eb-a075-57a2dcbce816",
           "parent_table": "block",
           "alive": true,
@@ -1320,11 +1256,17 @@
         "role": "reader",
         "value": {
           "id": "06751864-11df-4f93-b4c9-21d3f018b8f0",
-          "version": 38,
+          "version": 90,
           "type": "text",
-          "properties": { "title": [["I wrote a script here:"]] },
+          "properties": {
+            "title": [
+              ["I wrote a "],
+              ["script", [["a", "https://github.com/wenwkich/fluidfeed-sync"]]],
+              [" to sync the block data to local repo"]
+            ]
+          },
           "created_time": 1648618740000,
-          "last_edited_time": 1648618740000,
+          "last_edited_time": 1648779720000,
           "parent_id": "c7d444f8-0781-45eb-a075-57a2dcbce816",
           "parent_table": "block",
           "alive": true,
@@ -1339,36 +1281,10 @@
         "role": "reader",
         "value": {
           "id": "9b9bd85e-2b1d-443b-85ff-6716905bc145",
-          "version": 7,
+          "version": 9,
           "type": "text",
-          "properties": {
-            "title": [
-              [
-                "https://github.com/wenwkich/fluidfeed-sync",
-                [["a", "https://github.com/wenwkich/fluidfeed-sync"]]
-              ]
-            ]
-          },
           "created_time": 1648618800000,
-          "last_edited_time": 1648778100000,
-          "parent_id": "c7d444f8-0781-45eb-a075-57a2dcbce816",
-          "parent_table": "block",
-          "alive": true,
-          "created_by_table": "notion_user",
-          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
-          "last_edited_by_table": "notion_user",
-          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
-          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
-        }
-      },
-      "0bb4427d-7470-4fa9-8f03-4dbb262631ae": {
-        "role": "reader",
-        "value": {
-          "id": "0bb4427d-7470-4fa9-8f03-4dbb262631ae",
-          "version": 4,
-          "type": "text",
-          "created_time": 1648778100000,
-          "last_edited_time": 1648778100000,
+          "last_edited_time": 1648779720000,
           "parent_id": "c7d444f8-0781-45eb-a075-57a2dcbce816",
           "parent_table": "block",
           "alive": true,
@@ -1864,7 +1780,7 @@
         "role": "reader",
         "value": {
           "id": "980d8e69-776b-4151-a4f3-118c8192bfec",
-          "version": 10,
+          "version": 18,
           "type": "list",
           "name": "Published",
           "format": {
@@ -1889,6 +1805,16 @@
           "parent_id": "e17d56ae-9ee0-45a9-bf07-c57e39f29d3b",
           "parent_table": "block",
           "alive": true,
+          "page_sort": [
+            "c7d444f8-0781-45eb-a075-57a2dcbce816",
+            "91b9d5aa-4423-45dc-ad09-6b4e21764aa3",
+            "4ec10aae-7f03-469f-9733-206063924279",
+            "308646b5-a9d3-46c3-95c9-b39ac1d46be9",
+            "eb10527b-87b7-4bb4-b881-73a739b356b1",
+            "57d52bd1-53c1-4749-8c0e-1bf44856feb9",
+            "1593a4a1-f9b4-4436-b5a5-716985e26914",
+            "cd2963ee-d0d9-4890-9bc8-c22d4ba2890c"
+          ],
           "query2": { "sort": [{ "property": "ePJl", "direction": "descending" }] },
           "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
         }
