@@ -2,7 +2,7 @@
   "object": "page",
   "id": "c315aa1c-cbe1-4745-9a06-f2e9d2aadd6e",
   "created_time": "2022-03-31T05:34:00.000Z",
-  "last_edited_time": "2022-04-01T16:24:00.000Z",
+  "last_edited_time": "2022-04-02T01:27:00.000Z",
   "created_by": { "object": "user", "id": "06d19bad-3e46-4f88-a82f-6e42f5b09136" },
   "last_edited_by": { "object": "user", "id": "06d19bad-3e46-4f88-a82f-6e42f5b09136" },
   "cover": null,
@@ -22,7 +22,7 @@
     "Updated": {
       "id": "ePJl",
       "type": "last_edited_time",
-      "last_edited_time": "2022-04-01T16:24:00.000Z"
+      "last_edited_time": "2022-04-02T01:27:00.000Z"
     },
     "Created": { "id": "qqlW", "type": "created_time", "created_time": "2022-03-31T05:34:00.000Z" },
     "Slug": {
@@ -61,7 +61,7 @@
         "role": "reader",
         "value": {
           "id": "c315aa1c-cbe1-4745-9a06-f2e9d2aadd6e",
-          "version": 489,
+          "version": 594,
           "type": "page",
           "properties": {
             "TO}@": [["Yes"]],
@@ -216,23 +216,22 @@
             "26049104-d8d8-4696-8343-edc5d1ff1846",
             "bb7a36d5-55f3-44a6-9815-b796f9db9501",
             "0be73485-d07d-440c-a7af-4a55f02fbd0c",
-            "246db803-f61f-4ccc-b74f-f5aea732cf5c",
-            "148b3504-a8b8-4287-9f58-fbab46619add",
-            "905632e3-294e-4c6d-9594-3ab77561a47c",
-            "210a3a9d-7ed8-4ee3-8693-4a986db09e20",
-            "4b18b422-7934-4756-a6c5-3001c30a4c0e",
-            "23c4b707-1d11-41f6-aa76-1a3959117664",
-            "e627a3ca-20a6-45ff-93de-16236f0564fc",
-            "297bb037-3744-4ebc-8ded-6e18a2c16417",
-            "0a0a1dc6-d71b-435b-b555-fdfd617f700f",
-            "41eed98d-9661-4ec7-8e25-1c60a96d8c86",
-            "387e72aa-1534-406a-80bd-d6eee8c10135",
-            "661f4d36-5bde-4fa5-ae92-9fe695e128f8",
-            "3dae7940-34b7-4744-8477-249b28fd7110",
-            "c6d9ab32-bfd1-4896-b308-faab2dcca6fb"
+            "add0247b-b1ae-40ab-8a01-b2f84bb4ba87",
+            "4e98a866-e90f-433e-a382-3007879a1fa6",
+            "c5d42fd9-dba3-415a-aeaf-0b557facad18",
+            "8c7e9407-dd9f-44cc-ab67-68a2678e2f98",
+            "e5cf4929-044e-4756-a060-4bd35f8fea77",
+            "e002a9ad-90b4-4656-9344-6eb1930e7eda",
+            "9e5d6111-fef8-4d30-b4fc-4f59d1b8583c",
+            "e2aadbef-f060-4a0a-b41c-ef072a9f35a5",
+            "58b3e74a-8d8f-4bc1-9397-cfdabe2be9c7",
+            "81cc7057-657b-4f09-ba3a-7110a08ed8ff",
+            "6d81bbd4-8f05-4116-ae09-72d38fa13d79",
+            "e67e42e7-0615-4bbd-a6cb-60f01350b81b",
+            "1db3bf47-2fba-484b-9019-a113273404fa"
           ],
           "created_time": 1648704840000,
-          "last_edited_time": 1648830240000,
+          "last_edited_time": 1648862820000,
           "parent_id": "85cf5c11-0761-4d79-a0c1-ca451828c97d",
           "parent_table": "collection",
           "alive": true,
@@ -247,12 +246,12 @@
         "role": "reader",
         "value": {
           "id": "e17d56ae-9ee0-45a9-bf07-c57e39f29d3b",
-          "version": 563,
+          "version": 568,
           "type": "collection_view_page",
           "view_ids": [
             "980d8e69-776b-4151-a4f3-118c8192bfec",
-            "69d73ac0-982e-4b69-a0ee-f4fe615f6b54",
-            "50ebfde9-8d32-4009-8ff9-85e0208616c7"
+            "50ebfde9-8d32-4009-8ff9-85e0208616c7",
+            "69d73ac0-982e-4b69-a0ee-f4fe615f6b54"
           ],
           "format": {
             "collection_pointer": {
@@ -277,7 +276,7 @@
             { "role": "reader", "type": "public_permission", "added_timestamp": 1648555162360 }
           ],
           "created_time": 1648450709676,
-          "last_edited_time": 1648807677430,
+          "last_edited_time": 1648863368641,
           "parent_id": "1527a998-78d1-4636-a8c0-f1317a5261e6",
           "parent_table": "space",
           "alive": true,
@@ -3491,18 +3490,26 @@
           "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
         }
       },
-      "246db803-f61f-4ccc-b74f-f5aea732cf5c": {
+      "add0247b-b1ae-40ab-8a01-b2f84bb4ba87": {
         "role": "reader",
         "value": {
-          "id": "246db803-f61f-4ccc-b74f-f5aea732cf5c",
+          "id": "add0247b-b1ae-40ab-8a01-b2f84bb4ba87",
           "version": 3,
           "type": "to_do",
           "properties": { "title": [["Solidity patterns"]] },
-          "created_time": 1648828260000,
-          "last_edited_time": 1648830180000,
+          "format": {
+            "copied_from_pointer": {
+              "id": "246db803-f61f-4ccc-b74f-f5aea732cf5c",
+              "table": "block",
+              "spaceId": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+            }
+          },
+          "created_time": 1648862820073,
+          "last_edited_time": 1648862820000,
           "parent_id": "c315aa1c-cbe1-4745-9a06-f2e9d2aadd6e",
           "parent_table": "block",
           "alive": true,
+          "copied_from": "246db803-f61f-4ccc-b74f-f5aea732cf5c",
           "created_by_table": "notion_user",
           "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
           "last_edited_by_table": "notion_user",
@@ -3510,18 +3517,26 @@
           "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
         }
       },
-      "148b3504-a8b8-4287-9f58-fbab46619add": {
+      "4e98a866-e90f-433e-a382-3007879a1fa6": {
         "role": "reader",
         "value": {
-          "id": "148b3504-a8b8-4287-9f58-fbab46619add",
-          "version": 33,
+          "id": "4e98a866-e90f-433e-a382-3007879a1fa6",
+          "version": 3,
           "type": "to_do",
           "properties": { "title": [["Not so smart contract"]] },
-          "created_time": 1648828260000,
-          "last_edited_time": 1648830120000,
+          "format": {
+            "copied_from_pointer": {
+              "id": "148b3504-a8b8-4287-9f58-fbab46619add",
+              "table": "block",
+              "spaceId": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+            }
+          },
+          "created_time": 1648862820073,
+          "last_edited_time": 1648862820000,
           "parent_id": "c315aa1c-cbe1-4745-9a06-f2e9d2aadd6e",
           "parent_table": "block",
           "alive": true,
+          "copied_from": "148b3504-a8b8-4287-9f58-fbab46619add",
           "created_by_table": "notion_user",
           "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
           "last_edited_by_table": "notion_user",
@@ -3529,18 +3544,26 @@
           "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
         }
       },
-      "905632e3-294e-4c6d-9594-3ab77561a47c": {
+      "c5d42fd9-dba3-415a-aeaf-0b557facad18": {
         "role": "reader",
         "value": {
-          "id": "905632e3-294e-4c6d-9594-3ab77561a47c",
-          "version": 24,
+          "id": "c5d42fd9-dba3-415a-aeaf-0b557facad18",
+          "version": 3,
           "type": "to_do",
           "properties": { "title": [["Solidity Libraries"]] },
-          "created_time": 1648830060000,
-          "last_edited_time": 1648830120000,
+          "format": {
+            "copied_from_pointer": {
+              "id": "905632e3-294e-4c6d-9594-3ab77561a47c",
+              "table": "block",
+              "spaceId": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+            }
+          },
+          "created_time": 1648862820074,
+          "last_edited_time": 1648862820000,
           "parent_id": "c315aa1c-cbe1-4745-9a06-f2e9d2aadd6e",
           "parent_table": "block",
           "alive": true,
+          "copied_from": "905632e3-294e-4c6d-9594-3ab77561a47c",
           "created_by_table": "notion_user",
           "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
           "last_edited_by_table": "notion_user",
@@ -3548,18 +3571,26 @@
           "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
         }
       },
-      "210a3a9d-7ed8-4ee3-8693-4a986db09e20": {
+      "8c7e9407-dd9f-44cc-ab67-68a2678e2f98": {
         "role": "reader",
         "value": {
-          "id": "210a3a9d-7ed8-4ee3-8693-4a986db09e20",
-          "version": 19,
+          "id": "8c7e9407-dd9f-44cc-ab67-68a2678e2f98",
+          "version": 3,
           "type": "to_do",
           "properties": { "title": [["Uniswap v2"]] },
-          "created_time": 1648830180000,
-          "last_edited_time": 1648830240000,
+          "format": {
+            "copied_from_pointer": {
+              "id": "210a3a9d-7ed8-4ee3-8693-4a986db09e20",
+              "table": "block",
+              "spaceId": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+            }
+          },
+          "created_time": 1648862820074,
+          "last_edited_time": 1648862820000,
           "parent_id": "c315aa1c-cbe1-4745-9a06-f2e9d2aadd6e",
           "parent_table": "block",
           "alive": true,
+          "copied_from": "210a3a9d-7ed8-4ee3-8693-4a986db09e20",
           "created_by_table": "notion_user",
           "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
           "last_edited_by_table": "notion_user",
@@ -3567,18 +3598,26 @@
           "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
         }
       },
-      "4b18b422-7934-4756-a6c5-3001c30a4c0e": {
+      "e5cf4929-044e-4756-a060-4bd35f8fea77": {
         "role": "reader",
         "value": {
-          "id": "4b18b422-7934-4756-a6c5-3001c30a4c0e",
-          "version": 21,
+          "id": "e5cf4929-044e-4756-a060-4bd35f8fea77",
+          "version": 3,
           "type": "to_do",
           "properties": { "title": [["Multicall"]] },
-          "created_time": 1648828440000,
-          "last_edited_time": 1648830120000,
+          "format": {
+            "copied_from_pointer": {
+              "id": "4b18b422-7934-4756-a6c5-3001c30a4c0e",
+              "table": "block",
+              "spaceId": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+            }
+          },
+          "created_time": 1648862820074,
+          "last_edited_time": 1648862820000,
           "parent_id": "c315aa1c-cbe1-4745-9a06-f2e9d2aadd6e",
           "parent_table": "block",
           "alive": true,
+          "copied_from": "4b18b422-7934-4756-a6c5-3001c30a4c0e",
           "created_by_table": "notion_user",
           "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
           "last_edited_by_table": "notion_user",
@@ -3586,18 +3625,26 @@
           "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
         }
       },
-      "23c4b707-1d11-41f6-aa76-1a3959117664": {
+      "e002a9ad-90b4-4656-9344-6eb1930e7eda": {
         "role": "reader",
         "value": {
-          "id": "23c4b707-1d11-41f6-aa76-1a3959117664",
-          "version": 27,
+          "id": "e002a9ad-90b4-4656-9344-6eb1930e7eda",
+          "version": 3,
           "type": "to_do",
           "properties": { "title": [["Staking contracts"]] },
-          "created_time": 1648828380000,
-          "last_edited_time": 1648830120000,
+          "format": {
+            "copied_from_pointer": {
+              "id": "23c4b707-1d11-41f6-aa76-1a3959117664",
+              "table": "block",
+              "spaceId": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+            }
+          },
+          "created_time": 1648862820075,
+          "last_edited_time": 1648862820000,
           "parent_id": "c315aa1c-cbe1-4745-9a06-f2e9d2aadd6e",
           "parent_table": "block",
           "alive": true,
+          "copied_from": "23c4b707-1d11-41f6-aa76-1a3959117664",
           "created_by_table": "notion_user",
           "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
           "last_edited_by_table": "notion_user",
@@ -3605,18 +3652,26 @@
           "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
         }
       },
-      "e627a3ca-20a6-45ff-93de-16236f0564fc": {
+      "9e5d6111-fef8-4d30-b4fc-4f59d1b8583c": {
         "role": "reader",
         "value": {
-          "id": "e627a3ca-20a6-45ff-93de-16236f0564fc",
-          "version": 17,
+          "id": "9e5d6111-fef8-4d30-b4fc-4f59d1b8583c",
+          "version": 3,
           "type": "to_do",
           "properties": { "title": [["JS Garden"]] },
-          "created_time": 1648830180000,
-          "last_edited_time": 1648830180000,
+          "format": {
+            "copied_from_pointer": {
+              "id": "e627a3ca-20a6-45ff-93de-16236f0564fc",
+              "table": "block",
+              "spaceId": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+            }
+          },
+          "created_time": 1648862820075,
+          "last_edited_time": 1648862820000,
           "parent_id": "c315aa1c-cbe1-4745-9a06-f2e9d2aadd6e",
           "parent_table": "block",
           "alive": true,
+          "copied_from": "e627a3ca-20a6-45ff-93de-16236f0564fc",
           "created_by_table": "notion_user",
           "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
           "last_edited_by_table": "notion_user",
@@ -3624,18 +3679,26 @@
           "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
         }
       },
-      "297bb037-3744-4ebc-8ded-6e18a2c16417": {
+      "e2aadbef-f060-4a0a-b41c-ef072a9f35a5": {
         "role": "reader",
         "value": {
-          "id": "297bb037-3744-4ebc-8ded-6e18a2c16417",
-          "version": 28,
+          "id": "e2aadbef-f060-4a0a-b41c-ef072a9f35a5",
+          "version": 3,
           "type": "to_do",
           "properties": { "title": [["You don’t know JS"]] },
-          "created_time": 1648828260000,
-          "last_edited_time": 1648830120000,
+          "format": {
+            "copied_from_pointer": {
+              "id": "297bb037-3744-4ebc-8ded-6e18a2c16417",
+              "table": "block",
+              "spaceId": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+            }
+          },
+          "created_time": 1648862820075,
+          "last_edited_time": 1648862820000,
           "parent_id": "c315aa1c-cbe1-4745-9a06-f2e9d2aadd6e",
           "parent_table": "block",
           "alive": true,
+          "copied_from": "297bb037-3744-4ebc-8ded-6e18a2c16417",
           "created_by_table": "notion_user",
           "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
           "last_edited_by_table": "notion_user",
@@ -3643,18 +3706,26 @@
           "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
         }
       },
-      "0a0a1dc6-d71b-435b-b555-fdfd617f700f": {
+      "58b3e74a-8d8f-4bc1-9397-cfdabe2be9c7": {
         "role": "reader",
         "value": {
-          "id": "0a0a1dc6-d71b-435b-b555-fdfd617f700f",
-          "version": 27,
+          "id": "58b3e74a-8d8f-4bc1-9397-cfdabe2be9c7",
+          "version": 3,
           "type": "to_do",
           "properties": { "title": [["Understanding ES6"]] },
-          "created_time": 1648828320000,
-          "last_edited_time": 1648830120000,
+          "format": {
+            "copied_from_pointer": {
+              "id": "0a0a1dc6-d71b-435b-b555-fdfd617f700f",
+              "table": "block",
+              "spaceId": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+            }
+          },
+          "created_time": 1648862820076,
+          "last_edited_time": 1648862820000,
           "parent_id": "c315aa1c-cbe1-4745-9a06-f2e9d2aadd6e",
           "parent_table": "block",
           "alive": true,
+          "copied_from": "0a0a1dc6-d71b-435b-b555-fdfd617f700f",
           "created_by_table": "notion_user",
           "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
           "last_edited_by_table": "notion_user",
@@ -3662,18 +3733,26 @@
           "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
         }
       },
-      "41eed98d-9661-4ec7-8e25-1c60a96d8c86": {
+      "81cc7057-657b-4f09-ba3a-7110a08ed8ff": {
         "role": "reader",
         "value": {
-          "id": "41eed98d-9661-4ec7-8e25-1c60a96d8c86",
-          "version": 55,
+          "id": "81cc7057-657b-4f09-ba3a-7110a08ed8ff",
+          "version": 3,
           "type": "to_do",
           "properties": { "title": [["React Patterns"]] },
-          "created_time": 1648828980000,
-          "last_edited_time": 1648830120000,
+          "format": {
+            "copied_from_pointer": {
+              "id": "41eed98d-9661-4ec7-8e25-1c60a96d8c86",
+              "table": "block",
+              "spaceId": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+            }
+          },
+          "created_time": 1648862820076,
+          "last_edited_time": 1648862820000,
           "parent_id": "c315aa1c-cbe1-4745-9a06-f2e9d2aadd6e",
           "parent_table": "block",
           "alive": true,
+          "copied_from": "41eed98d-9661-4ec7-8e25-1c60a96d8c86",
           "created_by_table": "notion_user",
           "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
           "last_edited_by_table": "notion_user",
@@ -3681,18 +3760,26 @@
           "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
         }
       },
-      "387e72aa-1534-406a-80bd-d6eee8c10135": {
+      "6d81bbd4-8f05-4116-ae09-72d38fa13d79": {
         "role": "reader",
         "value": {
-          "id": "387e72aa-1534-406a-80bd-d6eee8c10135",
-          "version": 38,
+          "id": "6d81bbd4-8f05-4116-ae09-72d38fa13d79",
+          "version": 3,
           "type": "to_do",
           "properties": { "title": [["Thinking in React Hooks"]] },
-          "created_time": 1648829640000,
-          "last_edited_time": 1648830120000,
+          "format": {
+            "copied_from_pointer": {
+              "id": "387e72aa-1534-406a-80bd-d6eee8c10135",
+              "table": "block",
+              "spaceId": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+            }
+          },
+          "created_time": 1648862820076,
+          "last_edited_time": 1648862820000,
           "parent_id": "c315aa1c-cbe1-4745-9a06-f2e9d2aadd6e",
           "parent_table": "block",
           "alive": true,
+          "copied_from": "387e72aa-1534-406a-80bd-d6eee8c10135",
           "created_by_table": "notion_user",
           "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
           "last_edited_by_table": "notion_user",
@@ -3700,18 +3787,26 @@
           "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
         }
       },
-      "661f4d36-5bde-4fa5-ae92-9fe695e128f8": {
+      "e67e42e7-0615-4bbd-a6cb-60f01350b81b": {
         "role": "reader",
         "value": {
-          "id": "661f4d36-5bde-4fa5-ae92-9fe695e128f8",
-          "version": 17,
+          "id": "e67e42e7-0615-4bbd-a6cb-60f01350b81b",
+          "version": 3,
           "type": "to_do",
           "properties": { "title": [["devhints.io"]] },
-          "created_time": 1648829820000,
-          "last_edited_time": 1648830120000,
+          "format": {
+            "copied_from_pointer": {
+              "id": "661f4d36-5bde-4fa5-ae92-9fe695e128f8",
+              "table": "block",
+              "spaceId": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+            }
+          },
+          "created_time": 1648862820076,
+          "last_edited_time": 1648862820000,
           "parent_id": "c315aa1c-cbe1-4745-9a06-f2e9d2aadd6e",
           "parent_table": "block",
           "alive": true,
+          "copied_from": "661f4d36-5bde-4fa5-ae92-9fe695e128f8",
           "created_by_table": "notion_user",
           "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
           "last_edited_by_table": "notion_user",
@@ -3719,36 +3814,26 @@
           "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
         }
       },
-      "3dae7940-34b7-4744-8477-249b28fd7110": {
+      "1db3bf47-2fba-484b-9019-a113273404fa": {
         "role": "reader",
         "value": {
-          "id": "3dae7940-34b7-4744-8477-249b28fd7110",
-          "version": 26,
+          "id": "1db3bf47-2fba-484b-9019-a113273404fa",
+          "version": 3,
           "type": "to_do",
           "properties": { "title": [["Composing Software"]] },
-          "created_time": 1648829940000,
-          "last_edited_time": 1648830120000,
+          "format": {
+            "copied_from_pointer": {
+              "id": "3dae7940-34b7-4744-8477-249b28fd7110",
+              "table": "block",
+              "spaceId": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+            }
+          },
+          "created_time": 1648862820077,
+          "last_edited_time": 1648862820000,
           "parent_id": "c315aa1c-cbe1-4745-9a06-f2e9d2aadd6e",
           "parent_table": "block",
           "alive": true,
-          "created_by_table": "notion_user",
-          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
-          "last_edited_by_table": "notion_user",
-          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
-          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
-        }
-      },
-      "c6d9ab32-bfd1-4896-b308-faab2dcca6fb": {
-        "role": "reader",
-        "value": {
-          "id": "c6d9ab32-bfd1-4896-b308-faab2dcca6fb",
-          "version": 3,
-          "type": "text",
-          "created_time": 1648830120000,
-          "last_edited_time": 1648830120000,
-          "parent_id": "c315aa1c-cbe1-4745-9a06-f2e9d2aadd6e",
-          "parent_table": "block",
-          "alive": true,
+          "copied_from": "3dae7940-34b7-4744-8477-249b28fd7110",
           "created_by_table": "notion_user",
           "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
           "last_edited_by_table": "notion_user",
@@ -3762,7 +3847,7 @@
         "role": "reader",
         "value": {
           "id": "85cf5c11-0761-4d79-a0c1-ca451828c97d",
-          "version": 510,
+          "version": 512,
           "name": [["fluidfeed"]],
           "description": [["turns what i’ve learnt about dev in words"]],
           "schema": {
@@ -3842,6 +3927,16 @@
                   "id": "8f77041b-9c93-46d5-a4b9-bbc2f9ab6ba1",
                   "color": "orange",
                   "value": "study notes"
+                },
+                {
+                  "id": "d6a6e430-6ed3-46c7-99f5-18510c479d36",
+                  "color": "purple",
+                  "value": "defi"
+                },
+                {
+                  "id": "40772960-3f7d-495d-8425-3aaeb4f52873",
+                  "color": "gray",
+                  "value": "solidity"
                 }
               ]
             },
@@ -3959,11 +4054,46 @@
           "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
         }
       },
+      "50ebfde9-8d32-4009-8ff9-85e0208616c7": {
+        "role": "reader",
+        "value": {
+          "id": "50ebfde9-8d32-4009-8ff9-85e0208616c7",
+          "version": 9,
+          "type": "table",
+          "name": "Unpublished",
+          "format": {
+            "property_filters": [
+              {
+                "id": "ca0acc9f-9d5d-46e6-a2b5-f4de4090c400",
+                "filter": {
+                  "filter": {
+                    "value": { "type": "exact", "value": false },
+                    "operator": "checkbox_is"
+                  },
+                  "property": "TO}@"
+                }
+              }
+            ],
+            "table_properties": [
+              { "width": 280, "visible": true, "property": "title" },
+              { "width": 56, "visible": true, "property": "TO}@" },
+              { "width": 200, "visible": true, "property": "~?dF" },
+              { "width": 200, "visible": true, "property": "XWe}" },
+              { "width": 200, "visible": true, "property": "qqlW" },
+              { "width": 200, "visible": true, "property": "ePJl" }
+            ]
+          },
+          "parent_id": "e17d56ae-9ee0-45a9-bf07-c57e39f29d3b",
+          "parent_table": "block",
+          "alive": true,
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
       "69d73ac0-982e-4b69-a0ee-f4fe615f6b54": {
         "role": "reader",
         "value": {
           "id": "69d73ac0-982e-4b69-a0ee-f4fe615f6b54",
-          "version": 30,
+          "version": 31,
           "type": "table",
           "format": {
             "table_wrap": true,
@@ -3998,45 +4128,11 @@
             "308646b5-a9d3-46c3-95c9-b39ac1d46be9",
             "c315aa1c-cbe1-4745-9a06-f2e9d2aadd6e",
             "4ec10aae-7f03-469f-9733-206063924279",
+            "830a65e3-0b50-453b-b290-8c92997a38af",
             "0a4c400a-9b84-43a1-8d71-c236cdcb8793",
             "67e2cc68-7b8a-4a2f-8098-ee68ccdc227f"
           ],
           "query2": { "aggregations": [{ "property": "title", "aggregator": "count" }] },
-          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
-        }
-      },
-      "50ebfde9-8d32-4009-8ff9-85e0208616c7": {
-        "role": "reader",
-        "value": {
-          "id": "50ebfde9-8d32-4009-8ff9-85e0208616c7",
-          "version": 9,
-          "type": "table",
-          "name": "Unpublished",
-          "format": {
-            "property_filters": [
-              {
-                "id": "ca0acc9f-9d5d-46e6-a2b5-f4de4090c400",
-                "filter": {
-                  "filter": {
-                    "value": { "type": "exact", "value": false },
-                    "operator": "checkbox_is"
-                  },
-                  "property": "TO}@"
-                }
-              }
-            ],
-            "table_properties": [
-              { "width": 280, "visible": true, "property": "title" },
-              { "width": 56, "visible": true, "property": "TO}@" },
-              { "width": 200, "visible": true, "property": "~?dF" },
-              { "width": 200, "visible": true, "property": "XWe}" },
-              { "width": 200, "visible": true, "property": "qqlW" },
-              { "width": 200, "visible": true, "property": "ePJl" }
-            ]
-          },
-          "parent_id": "e17d56ae-9ee0-45a9-bf07-c57e39f29d3b",
-          "parent_table": "block",
-          "alive": true,
           "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
         }
       }
