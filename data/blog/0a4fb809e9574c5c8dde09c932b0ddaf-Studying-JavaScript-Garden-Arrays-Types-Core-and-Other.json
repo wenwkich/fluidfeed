@@ -1,0 +1,2297 @@
+{
+  "object": "page",
+  "id": "0a4fb809-e957-4c5c-8dde-09c932b0ddaf",
+  "created_time": "2022-04-02T12:53:00.000Z",
+  "last_edited_time": "2022-04-02T13:43:00.000Z",
+  "created_by": { "object": "user", "id": "06d19bad-3e46-4f88-a82f-6e42f5b09136" },
+  "last_edited_by": { "object": "user", "id": "06d19bad-3e46-4f88-a82f-6e42f5b09136" },
+  "cover": null,
+  "icon": null,
+  "parent": { "type": "database_id", "database_id": "e17d56ae-9ee0-45a9-bf07-c57e39f29d3b" },
+  "archived": false,
+  "properties": {
+    "Published": { "id": "TO%7D%40", "type": "checkbox", "checkbox": true },
+    "Tags": { "id": "XWe%7D", "type": "multi_select", "multi_select": [] },
+    "Updated": {
+      "id": "ePJl",
+      "type": "last_edited_time",
+      "last_edited_time": "2022-04-02T13:43:00.000Z"
+    },
+    "Created": { "id": "qqlW", "type": "created_time", "created_time": "2022-04-02T12:53:00.000Z" },
+    "Slug": {
+      "id": "~%3FdF",
+      "type": "formula",
+      "formula": {
+        "type": "string",
+        "string": "0a4fb809e9574c5c8dde09c932b0ddaf-Studying-JavaScript-Garden-Arrays-Types-Core-and-Other"
+      }
+    },
+    "Title": {
+      "id": "title",
+      "type": "title",
+      "title": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Studying JavaScript Garden - Arrays, Types, Core and Other",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Studying JavaScript Garden - Arrays, Types, Core and Other",
+          "href": null
+        }
+      ]
+    }
+  },
+  "url": "https://www.notion.so/Studying-JavaScript-Garden-Arrays-Types-Core-and-Other-0a4fb809e9574c5c8dde09c932b0ddaf",
+  "recordMap": {
+    "block": {
+      "0a4fb809-e957-4c5c-8dde-09c932b0ddaf": {
+        "role": "reader",
+        "value": {
+          "id": "0a4fb809-e957-4c5c-8dde-09c932b0ddaf",
+          "version": 163,
+          "type": "page",
+          "properties": {
+            "TO}@": [["Yes"]],
+            "title": [
+              ["Studying JavaScript Garden - Arrays, Types, Core and Other", [["b"], ["b"]]]
+            ]
+          },
+          "content": [
+            "f46c72eb-3193-4d0d-b3f3-b8919a07ed01",
+            "391a0104-30a7-4525-b4a2-9c111006c6cc",
+            "47f95485-52cd-4cb7-a4b0-930c318842c2",
+            "d6c69808-cad2-41b0-a901-4861df0b50da",
+            "b24c91ff-1365-43b6-a457-cbfa33dfad59",
+            "01982842-7e0f-4166-ac6b-fcd11d6e36bc",
+            "780e5563-3e56-4af1-9e5f-d994e65b394d",
+            "2e15082a-7be8-4ae9-9979-11fe07b79f74",
+            "8e5bff3e-55e8-4aa1-bace-f46261165beb",
+            "d2a76dbb-6ba8-4c24-862b-63f44d35af3a",
+            "796f53aa-f499-4eb3-bb4b-f125ae2214ea",
+            "805508b8-4dc5-4137-8797-f4b549a083ba",
+            "664de9f2-d30c-4939-95d0-ec8ae92b7104",
+            "dca21b23-757c-4b2a-996a-012531ed6484",
+            "4d40cc64-332d-408e-988d-052421e0fdf4",
+            "08cc3172-64f4-4edb-a256-8cdf048d22d9",
+            "50d9d34c-2d70-4da9-a46d-aee0b6f12a26",
+            "757c581e-acc7-4791-bdf9-9072aec5d7f9",
+            "de72729c-3e38-4be6-9a5c-cfa88deaeb0f",
+            "d0f10d72-0934-46cc-8337-3b68bf1571e6",
+            "31c91785-be1c-4a44-80da-b2a233f2c7b1",
+            "b012f014-cdd0-4bbc-9274-85e725cdb863",
+            "09b257ca-be5a-41bf-bba6-04b8417e806a",
+            "99609157-cc39-484a-b8ef-fe4988cb239e",
+            "dd1ac418-98a4-445b-a3cd-bf456ea17ba9",
+            "eb500b33-de01-481d-a3a6-a35773eadf66",
+            "e1a683a0-39c8-4bf1-8784-5ebc6e572713",
+            "212d4f73-1b79-4e27-b093-cb4365784399",
+            "21fbe869-b3d0-4163-b37d-33770d2cc84f",
+            "fcbcdfff-8c68-4830-afb8-e068b5c96c54",
+            "4798ec20-e7f6-4ac9-92ec-56a3c276c24e",
+            "a490be37-79da-48c1-8485-9c941059c710",
+            "2ec94923-9d87-45df-9179-a78fc7fad8fd",
+            "2cb4f431-5a6c-4e5b-8b3d-b70d17799858",
+            "06cad15a-536d-48a0-aae8-408868443e56",
+            "a741b10a-0a10-40f4-a9fd-855787601734",
+            "c555672a-5072-4c63-853f-6dd60358f47b",
+            "501ce4bf-06f5-49c4-a22e-597f389f83d3",
+            "f05f73d1-de48-4e4f-b8ef-29b034eff1b1",
+            "b392fc5f-6006-495f-90bc-eef5a8856c57",
+            "e0e4bb3e-f318-49c4-b9d0-96926f93679a",
+            "dd8974d6-9b2e-4b69-9e8e-7f2c426ac301",
+            "6e792ce4-7835-49da-8956-08341bccd823",
+            "dcf5f1b5-1182-4539-824a-d2d0519adb7c",
+            "99f187c3-2336-4656-901b-fd562ecc428e",
+            "88215fdc-c188-4e01-a2d0-156d928576b8",
+            "691d947f-71ce-4060-a537-a972fe3871de",
+            "a73f8939-3eef-4f09-97de-49e2d117ce46",
+            "7a03f1c2-8935-4273-b219-fb5f5fe6e62f",
+            "a802a774-8b8f-4e3d-b8fc-68541e59cb78",
+            "2d8e28e1-36c0-48c8-be0a-aed5a556f617",
+            "b4e4675e-5176-4b59-b66e-80ec41d86bfa",
+            "ba095064-8989-4b0c-927d-a6ae3467afeb",
+            "aa0d8153-8943-42d2-a0e3-e75bef361c80",
+            "664e017c-c66f-4e9a-a0b4-726182ec2917",
+            "581da10f-2d9c-474c-b607-ae8e570b8356",
+            "aa142ea9-62fd-4639-a173-d1c985447509",
+            "95af2cce-1e35-4a38-a441-b6d40e75d08f",
+            "070cd511-4c0c-4c09-8792-696586302e79",
+            "0a877fc8-4815-4bcb-8f50-a619f100b739",
+            "02a31008-97a4-47e2-bb57-61cb40feb9f2",
+            "bbac994b-281a-43df-8326-080c05750a4b",
+            "6df407c2-344e-46e1-b1ca-21b7cb68186f",
+            "6bbd189e-9eb6-423c-9e5a-b1efb466e044",
+            "fc06986a-a428-4d0a-a882-787d855aec81",
+            "29cdfba6-9b0f-4344-a8b2-7a128905e875",
+            "568916b5-93ce-44ee-a0de-c7924523fc4d",
+            "3f6867e1-db64-4afa-9525-2ec6efb31851",
+            "4288a3f7-18a1-4a65-bd6d-21cb854b0ff8",
+            "68aa18cd-73e2-430f-b943-4eb984651331",
+            "8dae7bd6-736f-4d2c-8762-09292de41226",
+            "3418b6fb-457d-44de-97b0-9f4515a0c148",
+            "3fd7b021-07f9-473a-8a95-0f09cbe1aee0",
+            "a15e656f-6389-41b5-842b-6589738db4ff",
+            "beef3911-6bde-4d73-8bcb-c2d2896e8bef",
+            "0f2a0969-5f2f-4f50-97e4-ef501aca7e9e",
+            "edbc8251-9382-49d1-b814-731fd63be682",
+            "09d65ea8-b0e5-4bf0-8fe2-b183dfc7e79f",
+            "49f5bfab-ee9f-42dd-a720-c22aa010b2e9",
+            "ba166820-295d-4dfd-898f-cd2b7caf5b76",
+            "1fa4ab09-7726-4113-8d21-a48e31836324",
+            "cf91d987-d091-4a02-b8ee-814dcb24c279",
+            "b9198d58-0bb6-4b4e-b52b-3e82663b6ff3",
+            "d1b8b8c5-44d0-4ad3-ac7c-3471f3381e7f"
+          ],
+          "created_time": 1648903980000,
+          "last_edited_time": 1648906980000,
+          "parent_id": "85cf5c11-0761-4d79-a0c1-ca451828c97d",
+          "parent_table": "collection",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "e17d56ae-9ee0-45a9-bf07-c57e39f29d3b": {
+        "role": "reader",
+        "value": {
+          "id": "e17d56ae-9ee0-45a9-bf07-c57e39f29d3b",
+          "version": 569,
+          "type": "collection_view_page",
+          "view_ids": [
+            "980d8e69-776b-4151-a4f3-118c8192bfec",
+            "50ebfde9-8d32-4009-8ff9-85e0208616c7",
+            "69d73ac0-982e-4b69-a0ee-f4fe615f6b54"
+          ],
+          "format": {
+            "collection_pointer": {
+              "id": "85cf5c11-0761-4d79-a0c1-ca451828c97d",
+              "table": "collection",
+              "spaceId": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+            }
+          },
+          "permissions": [
+            {
+              "role": "editor",
+              "type": "user_permission",
+              "user_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136"
+            },
+            {
+              "role": { "read_content": true },
+              "type": "bot_permission",
+              "bot_id": "7f9f671b-734a-4bd7-9152-616b4ac7d1c2",
+              "parent_id": "1527a998-78d1-4636-a8c0-f1317a5261e6",
+              "parent_table": "space"
+            },
+            { "role": "reader", "type": "public_permission", "added_timestamp": 1648555162360 }
+          ],
+          "created_time": 1648450709676,
+          "last_edited_time": 1648904002156,
+          "parent_id": "1527a998-78d1-4636-a8c0-f1317a5261e6",
+          "parent_table": "space",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "f46c72eb-3193-4d0d-b3f3-b8919a07ed01": {
+        "role": "reader",
+        "value": {
+          "id": "f46c72eb-3193-4d0d-b3f3-b8919a07ed01",
+          "version": 79,
+          "type": "text",
+          "properties": { "title": [["We’ll continue studying the JS Garden in this article"]] },
+          "created_time": 1648903980000,
+          "last_edited_time": 1648904040000,
+          "parent_id": "0a4fb809-e957-4c5c-8dde-09c932b0ddaf",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "391a0104-30a7-4525-b4a2-9c111006c6cc": {
+        "role": "reader",
+        "value": {
+          "id": "391a0104-30a7-4525-b4a2-9c111006c6cc",
+          "version": 12,
+          "type": "divider",
+          "created_time": 1648904040000,
+          "last_edited_time": 1648904040000,
+          "parent_id": "0a4fb809-e957-4c5c-8dde-09c932b0ddaf",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "47f95485-52cd-4cb7-a4b0-930c318842c2": {
+        "role": "reader",
+        "value": {
+          "id": "47f95485-52cd-4cb7-a4b0-930c318842c2",
+          "version": 18,
+          "type": "header",
+          "properties": { "title": [["Arrays"]] },
+          "created_time": 1648904071771,
+          "last_edited_time": 1648904040000,
+          "parent_id": "0a4fb809-e957-4c5c-8dde-09c932b0ddaf",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "d6c69808-cad2-41b0-a901-4861df0b50da": {
+        "role": "reader",
+        "value": {
+          "id": "d6c69808-cad2-41b0-a901-4861df0b50da",
+          "version": 77,
+          "type": "sub_header",
+          "properties": { "title": [["Don’t use "], ["for in", [["c"]]], [" loop to iterate"]] },
+          "created_time": 1648904040000,
+          "last_edited_time": 1648904160000,
+          "parent_id": "0a4fb809-e957-4c5c-8dde-09c932b0ddaf",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "b24c91ff-1365-43b6-a457-cbfa33dfad59": {
+        "role": "reader",
+        "value": {
+          "id": "b24c91ff-1365-43b6-a457-cbfa33dfad59",
+          "version": 94,
+          "type": "text",
+          "properties": {
+            "title": [
+              ["As we mentioned before, "],
+              ["for in", [["c"]]],
+              [" will also look at the prototype chain"]
+            ]
+          },
+          "created_time": 1648904160000,
+          "last_edited_time": 1648904220000,
+          "parent_id": "0a4fb809-e957-4c5c-8dde-09c932b0ddaf",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "01982842-7e0f-4166-ac6b-fcd11d6e36bc": {
+        "role": "reader",
+        "value": {
+          "id": "01982842-7e0f-4166-ac6b-fcd11d6e36bc",
+          "version": 51,
+          "type": "text",
+          "properties": { "title": [["it recommend to use the classic for loop"]] },
+          "created_time": 1648904220000,
+          "last_edited_time": 1648904280000,
+          "parent_id": "0a4fb809-e957-4c5c-8dde-09c932b0ddaf",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "780e5563-3e56-4af1-9e5f-d994e65b394d": {
+        "role": "reader",
+        "value": {
+          "id": "780e5563-3e56-4af1-9e5f-d994e65b394d",
+          "version": 12,
+          "type": "divider",
+          "created_time": 1648904220000,
+          "last_edited_time": 1648904220000,
+          "parent_id": "0a4fb809-e957-4c5c-8dde-09c932b0ddaf",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "2e15082a-7be8-4ae9-9979-11fe07b79f74": {
+        "role": "reader",
+        "value": {
+          "id": "2e15082a-7be8-4ae9-9979-11fe07b79f74",
+          "version": 83,
+          "type": "sub_header",
+          "properties": {
+            "title": [["Setting "], ["length", [["c"]]], [" property will truncate the array"]]
+          },
+          "created_time": 1648904224084,
+          "last_edited_time": 1648904220000,
+          "parent_id": "0a4fb809-e957-4c5c-8dde-09c932b0ddaf",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "8e5bff3e-55e8-4aa1-bace-f46261165beb": {
+        "role": "reader",
+        "value": {
+          "id": "8e5bff3e-55e8-4aa1-bace-f46261165beb",
+          "version": 14,
+          "type": "code",
+          "properties": {
+            "title": [
+              [
+                "var arr = [1, 2, 3, 4, 5, 6];\narr.length = 3;\narr; // [1, 2, 3]\n\narr.length = 6;\narr.push(4);\narr; // [1, 2, 3, undefined, undefined, undefined, 4]"
+              ]
+            ],
+            "language": [["JavaScript"]]
+          },
+          "created_time": 1648904220000,
+          "last_edited_time": 1648905240000,
+          "parent_id": "0a4fb809-e957-4c5c-8dde-09c932b0ddaf",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "d2a76dbb-6ba8-4c24-862b-63f44d35af3a": {
+        "role": "reader",
+        "value": {
+          "id": "d2a76dbb-6ba8-4c24-862b-63f44d35af3a",
+          "version": 11,
+          "type": "divider",
+          "created_time": 1648904280000,
+          "last_edited_time": 1648904280000,
+          "parent_id": "0a4fb809-e957-4c5c-8dde-09c932b0ddaf",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "796f53aa-f499-4eb3-bb4b-f125ae2214ea": {
+        "role": "reader",
+        "value": {
+          "id": "796f53aa-f499-4eb3-bb4b-f125ae2214ea",
+          "version": 56,
+          "type": "sub_header",
+          "properties": { "title": [["Better use array literal to create new array"]] },
+          "created_time": 1648904292720,
+          "last_edited_time": 1648904880000,
+          "parent_id": "0a4fb809-e957-4c5c-8dde-09c932b0ddaf",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "805508b8-4dc5-4137-8797-f4b549a083ba": {
+        "role": "reader",
+        "value": {
+          "id": "805508b8-4dc5-4137-8797-f4b549a083ba",
+          "version": 68,
+          "type": "text",
+          "properties": {
+            "title": [["This is because the indexes of the array will not be init"]]
+          },
+          "created_time": 1648904880000,
+          "last_edited_time": 1648904940000,
+          "parent_id": "0a4fb809-e957-4c5c-8dde-09c932b0ddaf",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "664de9f2-d30c-4939-95d0-ec8ae92b7104": {
+        "role": "reader",
+        "value": {
+          "id": "664de9f2-d30c-4939-95d0-ec8ae92b7104",
+          "version": 15,
+          "type": "code",
+          "properties": {
+            "title": [
+              [
+                "var arr = new Array(3);\narr[1]; // undefined\n1 in arr; // false, the index was not set"
+              ]
+            ],
+            "language": [["JavaScript"]]
+          },
+          "created_time": 1648904940000,
+          "last_edited_time": 1648905240000,
+          "parent_id": "0a4fb809-e957-4c5c-8dde-09c932b0ddaf",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "dca21b23-757c-4b2a-996a-012531ed6484": {
+        "role": "reader",
+        "value": {
+          "id": "dca21b23-757c-4b2a-996a-012531ed6484",
+          "version": 65,
+          "type": "text",
+          "properties": {
+            "title": [
+              ["Repeating a string with "],
+              ["Array", [["c"]]],
+              [" contructor will avoid the use of a loop"]
+            ]
+          },
+          "created_time": 1648904940000,
+          "last_edited_time": 1648905060000,
+          "parent_id": "0a4fb809-e957-4c5c-8dde-09c932b0ddaf",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "4d40cc64-332d-408e-988d-052421e0fdf4": {
+        "role": "reader",
+        "value": {
+          "id": "4d40cc64-332d-408e-988d-052421e0fdf4",
+          "version": 16,
+          "type": "code",
+          "properties": {
+            "title": [["new Array(count + 1).join(stringToRepeat);"]],
+            "language": [["JavaScript"]]
+          },
+          "created_time": 1648904940000,
+          "last_edited_time": 1648905240000,
+          "parent_id": "0a4fb809-e957-4c5c-8dde-09c932b0ddaf",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "08cc3172-64f4-4edb-a256-8cdf048d22d9": {
+        "role": "reader",
+        "value": {
+          "id": "08cc3172-64f4-4edb-a256-8cdf048d22d9",
+          "version": 11,
+          "type": "divider",
+          "created_time": 1648905000000,
+          "last_edited_time": 1648905000000,
+          "parent_id": "0a4fb809-e957-4c5c-8dde-09c932b0ddaf",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "50d9d34c-2d70-4da9-a46d-aee0b6f12a26": {
+        "role": "reader",
+        "value": {
+          "id": "50d9d34c-2d70-4da9-a46d-aee0b6f12a26",
+          "version": 16,
+          "type": "header",
+          "properties": { "title": [["Types"]] },
+          "created_time": 1648905056651,
+          "last_edited_time": 1648905060000,
+          "parent_id": "0a4fb809-e957-4c5c-8dde-09c932b0ddaf",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "757c581e-acc7-4791-bdf9-9072aec5d7f9": {
+        "role": "reader",
+        "value": {
+          "id": "757c581e-acc7-4791-bdf9-9072aec5d7f9",
+          "version": 16,
+          "type": "sub_header",
+          "properties": { "title": [["==", [["c"]]]] },
+          "created_time": 1648905060000,
+          "last_edited_time": 1648905060000,
+          "parent_id": "0a4fb809-e957-4c5c-8dde-09c932b0ddaf",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "de72729c-3e38-4be6-9a5c-cfa88deaeb0f": {
+        "role": "reader",
+        "value": {
+          "id": "de72729c-3e38-4be6-9a5c-cfa88deaeb0f",
+          "version": 100,
+          "type": "text",
+          "properties": {
+            "title": [
+              ["This is weak typing operator, the equality operator "],
+              ["coerces", [["b"]]],
+              [" type"]
+            ]
+          },
+          "created_time": 1648905060000,
+          "last_edited_time": 1648905120000,
+          "parent_id": "0a4fb809-e957-4c5c-8dde-09c932b0ddaf",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "d0f10d72-0934-46cc-8337-3b68bf1571e6": {
+        "role": "reader",
+        "value": {
+          "id": "d0f10d72-0934-46cc-8337-3b68bf1571e6",
+          "version": 17,
+          "type": "code",
+          "properties": {
+            "title": [
+              [
+                "\"\"           ==   \"0\"           // false\n0            ==   \"\"            // true\n0            ==   \"0\"           // true\nfalse        ==   \"false\"       // false\nfalse        ==   \"0\"           // true\nfalse        ==   undefined     // false\nfalse        ==   null          // false\nnull         ==   undefined     // true\n\" \\t\\r\\n\"    ==   0             // true"
+              ]
+            ],
+            "language": [["JavaScript"]]
+          },
+          "created_time": 1648905120000,
+          "last_edited_time": 1648905240000,
+          "parent_id": "0a4fb809-e957-4c5c-8dde-09c932b0ddaf",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "31c91785-be1c-4a44-80da-b2a233f2c7b1": {
+        "role": "reader",
+        "value": {
+          "id": "31c91785-be1c-4a44-80da-b2a233f2c7b1",
+          "version": 86,
+          "type": "text",
+          "properties": {
+            "title": [
+              ["This is so hard to track down, so weak operator is considered a bad practice"]
+            ]
+          },
+          "created_time": 1648905120000,
+          "last_edited_time": 1648905180000,
+          "parent_id": "0a4fb809-e957-4c5c-8dde-09c932b0ddaf",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "b012f014-cdd0-4bbc-9274-85e725cdb863": {
+        "role": "reader",
+        "value": {
+          "id": "b012f014-cdd0-4bbc-9274-85e725cdb863",
+          "version": 12,
+          "type": "divider",
+          "created_time": 1648905180000,
+          "last_edited_time": 1648905180000,
+          "parent_id": "0a4fb809-e957-4c5c-8dde-09c932b0ddaf",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "09b257ca-be5a-41bf-bba6-04b8417e806a": {
+        "role": "reader",
+        "value": {
+          "id": "09b257ca-be5a-41bf-bba6-04b8417e806a",
+          "version": 17,
+          "type": "sub_header",
+          "properties": { "title": [["===", [["c"]]]] },
+          "created_time": 1648905208414,
+          "last_edited_time": 1648905180000,
+          "parent_id": "0a4fb809-e957-4c5c-8dde-09c932b0ddaf",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "99609157-cc39-484a-b8ef-fe4988cb239e": {
+        "role": "reader",
+        "value": {
+          "id": "99609157-cc39-484a-b8ef-fe4988cb239e",
+          "version": 39,
+          "type": "text",
+          "properties": { "title": [["it does not perform type coersion"]] },
+          "created_time": 1648905180000,
+          "last_edited_time": 1648905180000,
+          "parent_id": "0a4fb809-e957-4c5c-8dde-09c932b0ddaf",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "dd1ac418-98a4-445b-a3cd-bf456ea17ba9": {
+        "role": "reader",
+        "value": {
+          "id": "dd1ac418-98a4-445b-a3cd-bf456ea17ba9",
+          "version": 17,
+          "type": "code",
+          "properties": {
+            "title": [
+              [
+                "\"\"           ===   \"0\"           // false\n0            ===   \"\"            // false\n0            ===   \"0\"           // false\nfalse        ===   \"false\"       // false\nfalse        ===   \"0\"           // false\nfalse        ===   undefined     // false\nfalse        ===   null          // false\nnull         ===   undefined     // false\n\" \\t\\r\\n\"    ===   0             // false"
+              ]
+            ],
+            "language": [["JavaScript"]]
+          },
+          "created_time": 1648905180000,
+          "last_edited_time": 1648905240000,
+          "parent_id": "0a4fb809-e957-4c5c-8dde-09c932b0ddaf",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "eb500b33-de01-481d-a3a6-a35773eadf66": {
+        "role": "reader",
+        "value": {
+          "id": "eb500b33-de01-481d-a3a6-a35773eadf66",
+          "version": 20,
+          "type": "divider",
+          "created_time": 1648905240000,
+          "last_edited_time": 1648905300000,
+          "parent_id": "0a4fb809-e957-4c5c-8dde-09c932b0ddaf",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "e1a683a0-39c8-4bf1-8784-5ebc6e572713": {
+        "role": "reader",
+        "value": {
+          "id": "e1a683a0-39c8-4bf1-8784-5ebc6e572713",
+          "version": 76,
+          "type": "sub_sub_header",
+          "properties": {
+            "title": [
+              ["===", [["c"]]],
+              [" behave differently when comparing "],
+              ["Object", [["c"]]]
+            ]
+          },
+          "created_time": 1648905320307,
+          "last_edited_time": 1648905300000,
+          "parent_id": "0a4fb809-e957-4c5c-8dde-09c932b0ddaf",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "212d4f73-1b79-4e27-b093-cb4365784399": {
+        "role": "reader",
+        "value": {
+          "id": "212d4f73-1b79-4e27-b093-cb4365784399",
+          "version": 13,
+          "type": "code",
+          "properties": {
+            "title": [
+              [
+                "{} === {};                   // false\nnew String('foo') === 'foo'; // false\nnew Number(10) === 10;       // false\nvar foo = {};\nfoo === foo;                 // true"
+              ]
+            ],
+            "language": [["JavaScript"]]
+          },
+          "created_time": 1648905300000,
+          "last_edited_time": 1648905300000,
+          "parent_id": "0a4fb809-e957-4c5c-8dde-09c932b0ddaf",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "21fbe869-b3d0-4163-b37d-33770d2cc84f": {
+        "role": "reader",
+        "value": {
+          "id": "21fbe869-b3d0-4163-b37d-33770d2cc84f",
+          "version": 32,
+          "type": "text",
+          "properties": { "title": [["as it compares the reference"]] },
+          "created_time": 1648905300000,
+          "last_edited_time": 1648905360000,
+          "parent_id": "0a4fb809-e957-4c5c-8dde-09c932b0ddaf",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "fcbcdfff-8c68-4830-afb8-e068b5c96c54": {
+        "role": "reader",
+        "value": {
+          "id": "fcbcdfff-8c68-4830-afb8-e068b5c96c54",
+          "version": 12,
+          "type": "divider",
+          "created_time": 1648905360000,
+          "last_edited_time": 1648905360000,
+          "parent_id": "0a4fb809-e957-4c5c-8dde-09c932b0ddaf",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "4798ec20-e7f6-4ac9-92ec-56a3c276c24e": {
+        "role": "reader",
+        "value": {
+          "id": "4798ec20-e7f6-4ac9-92ec-56a3c276c24e",
+          "version": 52,
+          "type": "sub_header",
+          "properties": { "title": [["typeof", [["c"]]], [" is the design flow of JS"]] },
+          "created_time": 1648905388263,
+          "last_edited_time": 1648905420000,
+          "parent_id": "0a4fb809-e957-4c5c-8dde-09c932b0ddaf",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "a490be37-79da-48c1-8485-9c941059c710": {
+        "role": "reader",
+        "value": {
+          "id": "a490be37-79da-48c1-8485-9c941059c710",
+          "version": 13,
+          "type": "code",
+          "properties": {
+            "title": [
+              [
+                "Value               Class      Type\n-------------------------------------\n\"foo\"               String     string\nnew String(\"foo\")   String     object\n1.2                 Number     number\nnew Number(1.2)     Number     object\ntrue                Boolean    boolean\nnew Boolean(true)   Boolean    object\nnew Date()          Date       object\nnew Error()         Error      object\n[1,2,3]             Array      object\nnew Array(1, 2, 3)  Array      object\nnew Function(\"\")    Function   function\n/abc/g              RegExp     object (function in Nitro/V8)\nnew RegExp(\"meow\")  RegExp     object (function in Nitro/V8)\n{}                  Object     object\nnew Object()        Object     object"
+              ]
+            ],
+            "language": [["JavaScript"]]
+          },
+          "created_time": 1648905420000,
+          "last_edited_time": 1648905420000,
+          "parent_id": "0a4fb809-e957-4c5c-8dde-09c932b0ddaf",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "2ec94923-9d87-45df-9179-a78fc7fad8fd": {
+        "role": "reader",
+        "value": {
+          "id": "2ec94923-9d87-45df-9179-a78fc7fad8fd",
+          "version": 61,
+          "type": "text",
+          "properties": {
+            "title": [
+              ["Type", [["c"]]],
+              [" refers to the value that "],
+              ["typeof", [["c"]]],
+              [" returns"]
+            ]
+          },
+          "created_time": 1648905420000,
+          "last_edited_time": 1648905420000,
+          "parent_id": "0a4fb809-e957-4c5c-8dde-09c932b0ddaf",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "2cb4f431-5a6c-4e5b-8b3d-b70d17799858": {
+        "role": "reader",
+        "value": {
+          "id": "2cb4f431-5a6c-4e5b-8b3d-b70d17799858",
+          "version": 11,
+          "type": "divider",
+          "created_time": 1648905480000,
+          "last_edited_time": 1648905480000,
+          "parent_id": "0a4fb809-e957-4c5c-8dde-09c932b0ddaf",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "06cad15a-536d-48a0-aae8-408868443e56": {
+        "role": "reader",
+        "value": {
+          "id": "06cad15a-536d-48a0-aae8-408868443e56",
+          "version": 31,
+          "type": "sub_header",
+          "properties": { "title": [["How to get the class"]] },
+          "created_time": 1648905507356,
+          "last_edited_time": 1648905480000,
+          "parent_id": "0a4fb809-e957-4c5c-8dde-09c932b0ddaf",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "a741b10a-0a10-40f4-a9fd-855787601734": {
+        "role": "reader",
+        "value": {
+          "id": "a741b10a-0a10-40f4-a9fd-855787601734",
+          "version": 57,
+          "type": "text",
+          "properties": {
+            "title": [
+              ["The only way to get the class is by using "],
+              ["Object.prototype.toString", [["c"]]]
+            ]
+          },
+          "created_time": 1648905480000,
+          "last_edited_time": 1648905540000,
+          "parent_id": "0a4fb809-e957-4c5c-8dde-09c932b0ddaf",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "c555672a-5072-4c63-853f-6dd60358f47b": {
+        "role": "reader",
+        "value": {
+          "id": "c555672a-5072-4c63-853f-6dd60358f47b",
+          "version": 13,
+          "type": "code",
+          "properties": {
+            "title": [
+              [
+                "function is(type, obj) {\n    var clas = Object.prototype.toString.call(obj).slice(8, -1);\n    return obj !== undefined && obj !== null && clas === type;\n}\n\nis('String', 'test'); // true\nis('String', new String('test')); // true"
+              ]
+            ],
+            "language": [["JavaScript"]]
+          },
+          "created_time": 1648905540000,
+          "last_edited_time": 1648905540000,
+          "parent_id": "0a4fb809-e957-4c5c-8dde-09c932b0ddaf",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "501ce4bf-06f5-49c4-a22e-597f389f83d3": {
+        "role": "reader",
+        "value": {
+          "id": "501ce4bf-06f5-49c4-a22e-597f389f83d3",
+          "version": 11,
+          "type": "divider",
+          "created_time": 1648905540000,
+          "last_edited_time": 1648905540000,
+          "parent_id": "0a4fb809-e957-4c5c-8dde-09c932b0ddaf",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "f05f73d1-de48-4e4f-b8ef-29b034eff1b1": {
+        "role": "reader",
+        "value": {
+          "id": "f05f73d1-de48-4e4f-b8ef-29b034eff1b1",
+          "version": 53,
+          "type": "sub_header",
+          "properties": { "title": [["instanceof", [["c"]]], [" is also useless"]] },
+          "created_time": 1648905591996,
+          "last_edited_time": 1648905600000,
+          "parent_id": "0a4fb809-e957-4c5c-8dde-09c932b0ddaf",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "b392fc5f-6006-495f-90bc-eef5a8856c57": {
+        "role": "reader",
+        "value": {
+          "id": "b392fc5f-6006-495f-90bc-eef5a8856c57",
+          "version": 54,
+          "type": "text",
+          "properties": { "title": [["It can be useful when comparing custom type:"]] },
+          "created_time": 1648905660000,
+          "last_edited_time": 1648905660000,
+          "parent_id": "0a4fb809-e957-4c5c-8dde-09c932b0ddaf",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "e0e4bb3e-f318-49c4-b9d0-96926f93679a": {
+        "role": "reader",
+        "value": {
+          "id": "e0e4bb3e-f318-49c4-b9d0-96926f93679a",
+          "version": 13,
+          "type": "code",
+          "properties": {
+            "title": [
+              [
+                "function Foo() {}\nfunction Bar() {}\nBar.prototype = new Foo();\n\nnew Bar() instanceof Bar; // true\nnew Bar() instanceof Foo; // true\n\n// This just sets Bar.prototype to the function object Foo,\n// but not to an actual instance of Foo\nBar.prototype = Foo;\nnew Bar() instanceof Foo; // false"
+              ]
+            ],
+            "language": [["JavaScript"]]
+          },
+          "created_time": 1648905600000,
+          "last_edited_time": 1648905600000,
+          "parent_id": "0a4fb809-e957-4c5c-8dde-09c932b0ddaf",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "dd8974d6-9b2e-4b69-9e8e-7f2c426ac301": {
+        "role": "reader",
+        "value": {
+          "id": "dd8974d6-9b2e-4b69-9e8e-7f2c426ac301",
+          "version": 25,
+          "type": "text",
+          "properties": { "title": [["but useless for native"]] },
+          "created_time": 1648905660000,
+          "last_edited_time": 1648905660000,
+          "parent_id": "0a4fb809-e957-4c5c-8dde-09c932b0ddaf",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "6e792ce4-7835-49da-8956-08341bccd823": {
+        "role": "reader",
+        "value": {
+          "id": "6e792ce4-7835-49da-8956-08341bccd823",
+          "version": 14,
+          "type": "code",
+          "properties": {
+            "title": [
+              [
+                "new String('foo') instanceof String; // true\nnew String('foo') instanceof Object; // true\n\n'foo' instanceof String; // false\n'foo' instanceof Object; // false"
+              ]
+            ],
+            "language": [["JavaScript"]]
+          },
+          "created_time": 1648905660000,
+          "last_edited_time": 1648905720000,
+          "parent_id": "0a4fb809-e957-4c5c-8dde-09c932b0ddaf",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "dcf5f1b5-1182-4539-824a-d2d0519adb7c": {
+        "role": "reader",
+        "value": {
+          "id": "dcf5f1b5-1182-4539-824a-d2d0519adb7c",
+          "version": 12,
+          "type": "divider",
+          "created_time": 1648905720000,
+          "last_edited_time": 1648905780000,
+          "parent_id": "0a4fb809-e957-4c5c-8dde-09c932b0ddaf",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "99f187c3-2336-4656-901b-fd562ecc428e": {
+        "role": "reader",
+        "value": {
+          "id": "99f187c3-2336-4656-901b-fd562ecc428e",
+          "version": 49,
+          "type": "sub_header",
+          "properties": { "title": [["Useful casting"]] },
+          "created_time": 1648905790122,
+          "last_edited_time": 1648905840000,
+          "parent_id": "0a4fb809-e957-4c5c-8dde-09c932b0ddaf",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "88215fdc-c188-4e01-a2d0-156d928576b8": {
+        "role": "reader",
+        "value": {
+          "id": "88215fdc-c188-4e01-a2d0-156d928576b8",
+          "version": 18,
+          "type": "code",
+          "properties": {
+            "title": [
+              [
+                "'' + 10 === '10'; // true\n+'10' === 10; // true\n!!'foo';   // true\n!!'';      // false\n!!'0';     // true\n!!'1';     // true\n!!'-1'     // true\n!!{};      // true\n!!true;    // true"
+              ]
+            ],
+            "language": [["JavaScript"]]
+          },
+          "created_time": 1648905780000,
+          "last_edited_time": 1648905840000,
+          "parent_id": "0a4fb809-e957-4c5c-8dde-09c932b0ddaf",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "691d947f-71ce-4060-a537-a972fe3871de": {
+        "role": "reader",
+        "value": {
+          "id": "691d947f-71ce-4060-a537-a972fe3871de",
+          "version": 12,
+          "type": "divider",
+          "created_time": 1648905840000,
+          "last_edited_time": 1648905900000,
+          "parent_id": "0a4fb809-e957-4c5c-8dde-09c932b0ddaf",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "a73f8939-3eef-4f09-97de-49e2d117ce46": {
+        "role": "reader",
+        "value": {
+          "id": "a73f8939-3eef-4f09-97de-49e2d117ce46",
+          "version": 18,
+          "type": "header",
+          "properties": { "title": [["Core"]] },
+          "created_time": 1648905908870,
+          "last_edited_time": 1648905900000,
+          "parent_id": "0a4fb809-e957-4c5c-8dde-09c932b0ddaf",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "7a03f1c2-8935-4273-b219-fb5f5fe6e62f": {
+        "role": "reader",
+        "value": {
+          "id": "7a03f1c2-8935-4273-b219-fb5f5fe6e62f",
+          "version": 35,
+          "type": "sub_header",
+          "properties": { "title": [["Don’t use "], ["eval", [["c"]]]] },
+          "created_time": 1648905900000,
+          "last_edited_time": 1648905900000,
+          "parent_id": "0a4fb809-e957-4c5c-8dde-09c932b0ddaf",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "a802a774-8b8f-4e3d-b8fc-68541e59cb78": {
+        "role": "reader",
+        "value": {
+          "id": "a802a774-8b8f-4e3d-b8fc-68541e59cb78",
+          "version": 13,
+          "type": "code",
+          "properties": {
+            "title": [
+              [
+                "var number = 1;\nfunction test() {\n    var number = 2;\n    var copyOfEval = eval;\n    copyOfEval('number = 3');\n    return number;\n}\ntest(); // 2\nnumber; // 3"
+              ]
+            ],
+            "language": [["JavaScript"]]
+          },
+          "created_time": 1648905900000,
+          "last_edited_time": 1648905900000,
+          "parent_id": "0a4fb809-e957-4c5c-8dde-09c932b0ddaf",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "2d8e28e1-36c0-48c8-be0a-aed5a556f617": {
+        "role": "reader",
+        "value": {
+          "id": "2d8e28e1-36c0-48c8-be0a-aed5a556f617",
+          "version": 32,
+          "type": "text",
+          "properties": { "title": [["it only uses the local scope"]] },
+          "created_time": 1648905900000,
+          "last_edited_time": 1648905960000,
+          "parent_id": "0a4fb809-e957-4c5c-8dde-09c932b0ddaf",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "b4e4675e-5176-4b59-b66e-80ec41d86bfa": {
+        "role": "reader",
+        "value": {
+          "id": "b4e4675e-5176-4b59-b66e-80ec41d86bfa",
+          "version": 65,
+          "type": "text",
+          "properties": { "title": [["also it has security issue as it executes any code"]] },
+          "created_time": 1648906080000,
+          "last_edited_time": 1648906140000,
+          "parent_id": "0a4fb809-e957-4c5c-8dde-09c932b0ddaf",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "ba095064-8989-4b0c-927d-a6ae3467afeb": {
+        "role": "reader",
+        "value": {
+          "id": "ba095064-8989-4b0c-927d-a6ae3467afeb",
+          "version": 12,
+          "type": "divider",
+          "created_time": 1648905960000,
+          "last_edited_time": 1648905960000,
+          "parent_id": "0a4fb809-e957-4c5c-8dde-09c932b0ddaf",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "aa0d8153-8943-42d2-a0e3-e75bef361c80": {
+        "role": "reader",
+        "value": {
+          "id": "aa0d8153-8943-42d2-a0e3-e75bef361c80",
+          "version": 58,
+          "type": "sub_header",
+          "properties": {
+            "title": [["undefined", [["c"]]], [" is more useful than "], ["null", [["c"]]]]
+          },
+          "created_time": 1648905969941,
+          "last_edited_time": 1648906260000,
+          "parent_id": "0a4fb809-e957-4c5c-8dde-09c932b0ddaf",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "664e017c-c66f-4e9a-a0b4-726182ec2917": {
+        "role": "reader",
+        "value": {
+          "id": "664e017c-c66f-4e9a-a0b4-726182ec2917",
+          "version": 65,
+          "type": "text",
+          "properties": {
+            "title": [
+              ["in most cases, "],
+              ["null", [["c"]]],
+              [" can be replaced with "],
+              ["undefined", [["c"]]]
+            ]
+          },
+          "created_time": 1648906260000,
+          "last_edited_time": 1648906320000,
+          "parent_id": "0a4fb809-e957-4c5c-8dde-09c932b0ddaf",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "581da10f-2d9c-474c-b607-ae8e570b8356": {
+        "role": "reader",
+        "value": {
+          "id": "581da10f-2d9c-474c-b607-ae8e570b8356",
+          "version": 15,
+          "type": "divider",
+          "created_time": 1648906320000,
+          "last_edited_time": 1648906320000,
+          "parent_id": "0a4fb809-e957-4c5c-8dde-09c932b0ddaf",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "aa142ea9-62fd-4639-a173-d1c985447509": {
+        "role": "reader",
+        "value": {
+          "id": "aa142ea9-62fd-4639-a173-d1c985447509",
+          "version": 57,
+          "type": "sub_header",
+          "properties": { "title": [["Auto semi-colon insertion could have problems"]] },
+          "created_time": 1648906378492,
+          "last_edited_time": 1648906380000,
+          "parent_id": "0a4fb809-e957-4c5c-8dde-09c932b0ddaf",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "95af2cce-1e35-4a38-a441-b6d40e75d08f": {
+        "role": "reader",
+        "value": {
+          "id": "95af2cce-1e35-4a38-a441-b6d40e75d08f",
+          "version": 13,
+          "type": "code",
+          "properties": {
+            "title": [
+              [
+                "(function(window, undefined) {\n    function test(options) {\n        log('testing!')\n\n        (options.list || []).forEach(function(i) {\n\n        })\n\n        options.value.test(\n            'long string to pass here',\n            'and another long string to pass'\n        )\n\n        return\n        {\n            foo: function() {}\n        }\n    }\n    window.test = test\n\n})(window)\n\n(function(window) {\n    window.someLibrary = {}\n\n})(window)"
+              ]
+            ],
+            "language": [["JavaScript"]]
+          },
+          "created_time": 1648906380000,
+          "last_edited_time": 1648906380000,
+          "parent_id": "0a4fb809-e957-4c5c-8dde-09c932b0ddaf",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "070cd511-4c0c-4c09-8792-696586302e79": {
+        "role": "reader",
+        "value": {
+          "id": "070cd511-4c0c-4c09-8792-696586302e79",
+          "version": 19,
+          "type": "text",
+          "properties": { "title": [["will turn into "]] },
+          "created_time": 1648906380000,
+          "last_edited_time": 1648906440000,
+          "parent_id": "0a4fb809-e957-4c5c-8dde-09c932b0ddaf",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "0a877fc8-4815-4bcb-8f50-a619f100b739": {
+        "role": "reader",
+        "value": {
+          "id": "0a877fc8-4815-4bcb-8f50-a619f100b739",
+          "version": 13,
+          "type": "code",
+          "properties": {
+            "title": [
+              [
+                "(function(window, undefined) {\n    function test(options) {\n\n        // Not inserted, lines got merged\n        log('testing!')(options.list || []).forEach(function(i) {\n\n        }); // <- inserted\n\n        options.value.test(\n            'long string to pass here',\n            'and another long string to pass'\n        ); // <- inserted\n\n        return; // <- inserted, breaks the return statement\n        { // treated as a block\n\n            // a label and a single expression statement\n            foo: function() {} \n        }; // <- inserted\n    }\n    window.test = test; // <- inserted\n\n// The lines got merged again\n})(window)(function(window) {\n    window.someLibrary = {}; // <- inserted\n\n})(window);"
+              ]
+            ],
+            "language": [["JavaScript"]]
+          },
+          "created_time": 1648906440000,
+          "last_edited_time": 1648906440000,
+          "parent_id": "0a4fb809-e957-4c5c-8dde-09c932b0ddaf",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "02a31008-97a4-47e2-bb57-61cb40feb9f2": {
+        "role": "reader",
+        "value": {
+          "id": "02a31008-97a4-47e2-bb57-61cb40feb9f2",
+          "version": 179,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "so it’s recommended to not use a semicolon (that’s why i think using prettier is important, as it avoids such mistakes)"
+              ]
+            ]
+          },
+          "created_time": 1648906440000,
+          "last_edited_time": 1648906500000,
+          "parent_id": "0a4fb809-e957-4c5c-8dde-09c932b0ddaf",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "bbac994b-281a-43df-8326-080c05750a4b": {
+        "role": "reader",
+        "value": {
+          "id": "bbac994b-281a-43df-8326-080c05750a4b",
+          "version": 12,
+          "type": "divider",
+          "created_time": 1648906500000,
+          "last_edited_time": 1648906500000,
+          "parent_id": "0a4fb809-e957-4c5c-8dde-09c932b0ddaf",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "6df407c2-344e-46e1-b1ca-21b7cb68186f": {
+        "role": "reader",
+        "value": {
+          "id": "6df407c2-344e-46e1-b1ca-21b7cb68186f",
+          "version": 40,
+          "type": "sub_header",
+          "properties": { "title": [["Variables can’t be deleted"]] },
+          "created_time": 1648906514304,
+          "last_edited_time": 1648906560000,
+          "parent_id": "0a4fb809-e957-4c5c-8dde-09c932b0ddaf",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "6bbd189e-9eb6-423c-9e5a-b1efb466e044": {
+        "role": "reader",
+        "value": {
+          "id": "6bbd189e-9eb6-423c-9e5a-b1efb466e044",
+          "version": 13,
+          "type": "code",
+          "properties": {
+            "title": [
+              [
+                "// global variable:\nvar a = 1; // DontDelete is set\ndelete a; // false\na; // 1\n\n// normal function:\nfunction f() {} // DontDelete is set\ndelete f; // false\ntypeof f; // \"function\"\n\n// reassigning doesn't help:\nf = 1;\ndelete f; // false\nf; // 1"
+              ]
+            ],
+            "language": [["JavaScript"]]
+          },
+          "created_time": 1648906560000,
+          "last_edited_time": 1648906560000,
+          "parent_id": "0a4fb809-e957-4c5c-8dde-09c932b0ddaf",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "fc06986a-a428-4d0a-a882-787d855aec81": {
+        "role": "reader",
+        "value": {
+          "id": "fc06986a-a428-4d0a-a882-787d855aec81",
+          "version": 43,
+          "type": "text",
+          "properties": { "title": [["But it should work fine on properties"]] },
+          "created_time": 1648906560000,
+          "last_edited_time": 1648906620000,
+          "parent_id": "0a4fb809-e957-4c5c-8dde-09c932b0ddaf",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "29cdfba6-9b0f-4344-a8b2-7a128905e875": {
+        "role": "reader",
+        "value": {
+          "id": "29cdfba6-9b0f-4344-a8b2-7a128905e875",
+          "version": 13,
+          "type": "code",
+          "properties": {
+            "title": [
+              [
+                "// explicitly set property:\nvar obj = {x: 1};\nobj.y = 2;\ndelete obj.x; // true\ndelete obj.y; // true\nobj.x; // undefined\nobj.y; // undefined"
+              ]
+            ],
+            "language": [["JavaScript"]]
+          },
+          "created_time": 1648906620000,
+          "last_edited_time": 1648906620000,
+          "parent_id": "0a4fb809-e957-4c5c-8dde-09c932b0ddaf",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "568916b5-93ce-44ee-a0de-c7924523fc4d": {
+        "role": "reader",
+        "value": {
+          "id": "568916b5-93ce-44ee-a0de-c7924523fc4d",
+          "version": 13,
+          "type": "divider",
+          "created_time": 1648906620000,
+          "last_edited_time": 1648906620000,
+          "parent_id": "0a4fb809-e957-4c5c-8dde-09c932b0ddaf",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "3f6867e1-db64-4afa-9525-2ec6efb31851": {
+        "role": "reader",
+        "value": {
+          "id": "3f6867e1-db64-4afa-9525-2ec6efb31851",
+          "version": 15,
+          "type": "header",
+          "properties": { "title": [["Other"]] },
+          "created_time": 1648906664312,
+          "last_edited_time": 1648906620000,
+          "parent_id": "0a4fb809-e957-4c5c-8dde-09c932b0ddaf",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "4288a3f7-18a1-4a65-bd6d-21cb854b0ff8": {
+        "role": "reader",
+        "value": {
+          "id": "4288a3f7-18a1-4a65-bd6d-21cb854b0ff8",
+          "version": 55,
+          "type": "sub_header",
+          "properties": { "title": [["setInterval", [["c"]]], [" should be avoided"]] },
+          "created_time": 1648906620000,
+          "last_edited_time": 1648906740000,
+          "parent_id": "0a4fb809-e957-4c5c-8dde-09c932b0ddaf",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "68aa18cd-73e2-430f-b943-4eb984651331": {
+        "role": "reader",
+        "value": {
+          "id": "68aa18cd-73e2-430f-b943-4eb984651331",
+          "version": 136,
+          "type": "text",
+          "properties": {
+            "title": [
+              ["As it execute the function every "],
+              ["x", [["c"]]],
+              [" ms, using it with small intervals will resulting function stacking up"]
+            ]
+          },
+          "created_time": 1648906740000,
+          "last_edited_time": 1648906800000,
+          "parent_id": "0a4fb809-e957-4c5c-8dde-09c932b0ddaf",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "8dae7bd6-736f-4d2c-8762-09292de41226": {
+        "role": "reader",
+        "value": {
+          "id": "8dae7bd6-736f-4d2c-8762-09292de41226",
+          "version": 12,
+          "type": "divider",
+          "created_time": 1648906800000,
+          "last_edited_time": 1648906800000,
+          "parent_id": "0a4fb809-e957-4c5c-8dde-09c932b0ddaf",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "3418b6fb-457d-44de-97b0-9f4515a0c148": {
+        "role": "reader",
+        "value": {
+          "id": "3418b6fb-457d-44de-97b0-9f4515a0c148",
+          "version": 62,
+          "type": "sub_header",
+          "properties": {
+            "title": [
+              ["Using "],
+              ["setTimeout", [["c"]]],
+              [" to replace "],
+              ["setInterval", [["c"]]]
+            ]
+          },
+          "created_time": 1648906807965,
+          "last_edited_time": 1648906800000,
+          "parent_id": "0a4fb809-e957-4c5c-8dde-09c932b0ddaf",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "3fd7b021-07f9-473a-8a95-0f09cbe1aee0": {
+        "role": "reader",
+        "value": {
+          "id": "3fd7b021-07f9-473a-8a95-0f09cbe1aee0",
+          "version": 13,
+          "type": "code",
+          "properties": {
+            "title": [
+              [
+                "function foo(){\n    // something that blocks for 1 second\n    setTimeout(foo, 100);\n}\nfoo();"
+              ]
+            ],
+            "language": [["JavaScript"]]
+          },
+          "created_time": 1648906800000,
+          "last_edited_time": 1648906800000,
+          "parent_id": "0a4fb809-e957-4c5c-8dde-09c932b0ddaf",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "a15e656f-6389-41b5-842b-6589738db4ff": {
+        "role": "reader",
+        "value": {
+          "id": "a15e656f-6389-41b5-842b-6589738db4ff",
+          "version": 12,
+          "type": "divider",
+          "created_time": 1648906800000,
+          "last_edited_time": 1648906860000,
+          "parent_id": "0a4fb809-e957-4c5c-8dde-09c932b0ddaf",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "beef3911-6bde-4d73-8bcb-c2d2896e8bef": {
+        "role": "reader",
+        "value": {
+          "id": "beef3911-6bde-4d73-8bcb-c2d2896e8bef",
+          "version": 30,
+          "type": "sub_header",
+          "properties": { "title": [["Clearing all timeouts"]] },
+          "created_time": 1648906868497,
+          "last_edited_time": 1648906860000,
+          "parent_id": "0a4fb809-e957-4c5c-8dde-09c932b0ddaf",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "0f2a0969-5f2f-4f50-97e4-ef501aca7e9e": {
+        "role": "reader",
+        "value": {
+          "id": "0f2a0969-5f2f-4f50-97e4-ef501aca7e9e",
+          "version": 13,
+          "type": "code",
+          "properties": {
+            "title": [
+              [
+                "// clear \"all\" timeouts\nfor(var i = 1; i < 1000; i++) {\n    clearTimeout(i);\n}"
+              ]
+            ],
+            "language": [["JavaScript"]]
+          },
+          "created_time": 1648906860000,
+          "last_edited_time": 1648906860000,
+          "parent_id": "0a4fb809-e957-4c5c-8dde-09c932b0ddaf",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "edbc8251-9382-49d1-b814-731fd63be682": {
+        "role": "reader",
+        "value": {
+          "id": "edbc8251-9382-49d1-b814-731fd63be682",
+          "version": 53,
+          "type": "text",
+          "properties": { "title": [["This can be only done in a brute force way"]] },
+          "created_time": 1648906860000,
+          "last_edited_time": 1648906860000,
+          "parent_id": "0a4fb809-e957-4c5c-8dde-09c932b0ddaf",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "09d65ea8-b0e5-4bf0-8fe2-b183dfc7e79f": {
+        "role": "reader",
+        "value": {
+          "id": "09d65ea8-b0e5-4bf0-8fe2-b183dfc7e79f",
+          "version": 12,
+          "type": "divider",
+          "created_time": 1648906860000,
+          "last_edited_time": 1648906860000,
+          "parent_id": "0a4fb809-e957-4c5c-8dde-09c932b0ddaf",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "49f5bfab-ee9f-42dd-a720-c22aa010b2e9": {
+        "role": "reader",
+        "value": {
+          "id": "49f5bfab-ee9f-42dd-a720-c22aa010b2e9",
+          "version": 59,
+          "type": "sub_header",
+          "properties": {
+            "title": [["Hidden use of "], ["eval", [["c"]]], [" that should be never used"]]
+          },
+          "created_time": 1648906893133,
+          "last_edited_time": 1648906920000,
+          "parent_id": "0a4fb809-e957-4c5c-8dde-09c932b0ddaf",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "ba166820-295d-4dfd-898f-cd2b7caf5b76": {
+        "role": "reader",
+        "value": {
+          "id": "ba166820-295d-4dfd-898f-cd2b7caf5b76",
+          "version": 13,
+          "type": "code",
+          "properties": {
+            "title": [
+              [
+                "function foo(a, b, c) {}\n\n// NEVER use this\nsetTimeout('foo(1, 2, 3)', 1000)\n\n// Instead use an anonymous function\nsetTimeout(function() {\n    foo(1, 2, 3);\n}, 1000)"
+              ]
+            ],
+            "language": [["JavaScript"]]
+          },
+          "created_time": 1648906920000,
+          "last_edited_time": 1648906920000,
+          "parent_id": "0a4fb809-e957-4c5c-8dde-09c932b0ddaf",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "1fa4ab09-7726-4113-8d21-a48e31836324": {
+        "role": "reader",
+        "value": {
+          "id": "1fa4ab09-7726-4113-8d21-a48e31836324",
+          "version": 13,
+          "type": "divider",
+          "created_time": 1648906860000,
+          "last_edited_time": 1648906920000,
+          "parent_id": "0a4fb809-e957-4c5c-8dde-09c932b0ddaf",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "cf91d987-d091-4a02-b8ee-814dcb24c279": {
+        "role": "reader",
+        "value": {
+          "id": "cf91d987-d091-4a02-b8ee-814dcb24c279",
+          "version": 24,
+          "type": "header",
+          "properties": { "title": [["Summary"]] },
+          "created_time": 1648906920000,
+          "last_edited_time": 1648906920000,
+          "parent_id": "0a4fb809-e957-4c5c-8dde-09c932b0ddaf",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "b9198d58-0bb6-4b4e-b52b-3e82663b6ff3": {
+        "role": "reader",
+        "value": {
+          "id": "b9198d58-0bb6-4b4e-b52b-3e82663b6ff3",
+          "version": 159,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "I think the later parts of JS Garden is a lot easier to understand, and I feel happy to finish this series in such a short time"
+              ]
+            ]
+          },
+          "created_time": 1648906920000,
+          "last_edited_time": 1648906980000,
+          "parent_id": "0a4fb809-e957-4c5c-8dde-09c932b0ddaf",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "d1b8b8c5-44d0-4ad3-ac7c-3471f3381e7f": {
+        "role": "reader",
+        "value": {
+          "id": "d1b8b8c5-44d0-4ad3-ac7c-3471f3381e7f",
+          "version": 3,
+          "type": "text",
+          "created_time": 1648906980000,
+          "last_edited_time": 1648906980000,
+          "parent_id": "0a4fb809-e957-4c5c-8dde-09c932b0ddaf",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      }
+    },
+    "collection": {
+      "85cf5c11-0761-4d79-a0c1-ca451828c97d": {
+        "role": "reader",
+        "value": {
+          "id": "85cf5c11-0761-4d79-a0c1-ca451828c97d",
+          "version": 512,
+          "name": [["fluidfeed"]],
+          "description": [["turns what i’ve learnt about dev in words"]],
+          "schema": {
+            "TO}@": { "name": "Published", "type": "checkbox" },
+            "XWe}": {
+              "name": "Tags",
+              "type": "multi_select",
+              "options": [
+                { "id": "d48c017d-a01f-4942-8952-835db2cf37b8", "color": "red", "value": "react" },
+                {
+                  "id": "29a47e92-0c83-4f5b-9f65-89f65f2e2f41",
+                  "color": "default",
+                  "value": "css"
+                },
+                {
+                  "id": "00b1969f-d76f-4039-a2b8-ed601c3a19c6",
+                  "color": "pink",
+                  "value": "graphql"
+                },
+                { "id": "f1196884-eece-4607-8c13-e3ca03c59278", "color": "gray", "value": "web3" },
+                {
+                  "id": "4f081ed0-ce57-47b0-a957-5cc31036b690",
+                  "color": "gray",
+                  "value": "mikroorm"
+                },
+                { "id": "9ae43dad-110e-4379-8b6c-20f37115ee38", "color": "blue", "value": "wip" },
+                {
+                  "id": "91dfb9a2-3721-4999-8d0f-b8d6e78545fb",
+                  "color": "brown",
+                  "value": "express"
+                },
+                { "id": "18a8185a-761b-4d27-8b2c-3150721e9ee3", "color": "green", "value": "auth" },
+                {
+                  "id": "c3d9caae-c3dd-4361-8439-4c1eef1a84de",
+                  "color": "yellow",
+                  "value": "design pattern"
+                },
+                {
+                  "id": "6252b243-1ab9-4690-a9ca-f530158f33d2",
+                  "color": "purple",
+                  "value": "notion"
+                },
+                {
+                  "id": "c68b6f92-f79b-422e-8586-1add9afa3fee",
+                  "color": "orange",
+                  "value": "nextjs"
+                },
+                { "id": "1e86d7c8-256d-42d4-b6ea-36b4335d65fd", "color": "brown", "value": "meta" },
+                {
+                  "id": "d5189e66-e4a2-4bef-9d4f-fbdc5697168f",
+                  "color": "green",
+                  "value": "cryptography"
+                },
+                { "id": "d0384436-6530-41b2-a911-ad41db53d6cb", "color": "red", "value": "health" },
+                {
+                  "id": "7cf8f5d7-aa0f-4208-8f4c-d6bcb3957173",
+                  "color": "green",
+                  "value": "hyperpop"
+                },
+                { "id": "d0b570be-d665-4949-8649-f324e223fd63", "color": "red", "value": "music" },
+                {
+                  "id": "bae6459c-d5be-447d-9475-f10ba8bfeb35",
+                  "color": "orange",
+                  "value": "thoughts"
+                },
+                {
+                  "id": "71785c59-13de-456c-afd6-4e71f042db87",
+                  "color": "yellow",
+                  "value": "javascript"
+                },
+                {
+                  "id": "5db7bacd-bdaf-4940-a175-04bd80eab0f1",
+                  "color": "yellow",
+                  "value": "study"
+                },
+                {
+                  "id": "8f77041b-9c93-46d5-a4b9-bbc2f9ab6ba1",
+                  "color": "orange",
+                  "value": "study notes"
+                },
+                {
+                  "id": "d6a6e430-6ed3-46c7-99f5-18510c479d36",
+                  "color": "purple",
+                  "value": "defi"
+                },
+                {
+                  "id": "40772960-3f7d-495d-8425-3aaeb4f52873",
+                  "color": "gray",
+                  "value": "solidity"
+                }
+              ]
+            },
+            "ePJl": { "name": "Updated", "type": "last_edited_time" },
+            "qqlW": { "name": "Created", "type": "created_time" },
+            "~?dF": {
+              "name": "Slug",
+              "type": "formula",
+              "formula": {
+                "args": [
+                  {
+                    "args": [
+                      { "name": "id", "type": "function", "result_type": "text" },
+                      {
+                        "type": "constant",
+                        "value": "-",
+                        "value_type": "string",
+                        "result_type": "text"
+                      }
+                    ],
+                    "name": "add",
+                    "type": "operator",
+                    "operator": "+",
+                    "result_type": "text"
+                  },
+                  {
+                    "args": [
+                      { "id": "title", "name": "Name", "type": "property", "result_type": "text" },
+                      {
+                        "type": "constant",
+                        "value": "\\W+",
+                        "value_type": "string",
+                        "result_type": "text"
+                      },
+                      {
+                        "type": "constant",
+                        "value": "-",
+                        "value_type": "string",
+                        "result_type": "text"
+                      }
+                    ],
+                    "name": "replaceAll",
+                    "type": "function",
+                    "result_type": "text"
+                  }
+                ],
+                "name": "add",
+                "type": "operator",
+                "operator": "+",
+                "result_type": "text"
+              }
+            },
+            "title": { "name": "Title", "type": "title" }
+          },
+          "icon": "😬",
+          "format": { "collection_page_properties": [{ "visible": true, "property": "XWe}" }] },
+          "parent_id": "e17d56ae-9ee0-45a9-bf07-c57e39f29d3b",
+          "parent_table": "block",
+          "alive": true,
+          "migrated": true,
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6",
+          "deleted_schema": {
+            "hRWZ": { "name": "Title", "type": "text" },
+            "w^dv": {
+              "name": "ID",
+              "type": "formula",
+              "formula": { "name": "id", "type": "function", "result_type": "text" }
+            }
+          }
+        }
+      }
+    },
+    "space": {},
+    "collection_view": {
+      "980d8e69-776b-4151-a4f3-118c8192bfec": {
+        "role": "reader",
+        "value": {
+          "id": "980d8e69-776b-4151-a4f3-118c8192bfec",
+          "version": 18,
+          "type": "list",
+          "name": "Published",
+          "format": {
+            "list_properties": [
+              { "visible": true, "property": "XWe}" },
+              { "visible": true, "property": "qqlW" },
+              { "visible": false, "property": "ePJl" }
+            ],
+            "property_filters": [
+              {
+                "id": "843bca59-f738-4414-a7ec-bd8d511c7a6e",
+                "filter": {
+                  "filter": {
+                    "value": { "type": "exact", "value": true },
+                    "operator": "checkbox_is"
+                  },
+                  "property": "TO}@"
+                }
+              }
+            ]
+          },
+          "parent_id": "e17d56ae-9ee0-45a9-bf07-c57e39f29d3b",
+          "parent_table": "block",
+          "alive": true,
+          "page_sort": [
+            "c7d444f8-0781-45eb-a075-57a2dcbce816",
+            "91b9d5aa-4423-45dc-ad09-6b4e21764aa3",
+            "4ec10aae-7f03-469f-9733-206063924279",
+            "308646b5-a9d3-46c3-95c9-b39ac1d46be9",
+            "eb10527b-87b7-4bb4-b881-73a739b356b1",
+            "57d52bd1-53c1-4749-8c0e-1bf44856feb9",
+            "1593a4a1-f9b4-4436-b5a5-716985e26914",
+            "cd2963ee-d0d9-4890-9bc8-c22d4ba2890c"
+          ],
+          "query2": { "sort": [{ "property": "ePJl", "direction": "descending" }] },
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "50ebfde9-8d32-4009-8ff9-85e0208616c7": {
+        "role": "reader",
+        "value": {
+          "id": "50ebfde9-8d32-4009-8ff9-85e0208616c7",
+          "version": 9,
+          "type": "table",
+          "name": "Unpublished",
+          "format": {
+            "property_filters": [
+              {
+                "id": "ca0acc9f-9d5d-46e6-a2b5-f4de4090c400",
+                "filter": {
+                  "filter": {
+                    "value": { "type": "exact", "value": false },
+                    "operator": "checkbox_is"
+                  },
+                  "property": "TO}@"
+                }
+              }
+            ],
+            "table_properties": [
+              { "width": 280, "visible": true, "property": "title" },
+              { "width": 56, "visible": true, "property": "TO}@" },
+              { "width": 200, "visible": true, "property": "~?dF" },
+              { "width": 200, "visible": true, "property": "XWe}" },
+              { "width": 200, "visible": true, "property": "qqlW" },
+              { "width": 200, "visible": true, "property": "ePJl" }
+            ]
+          },
+          "parent_id": "e17d56ae-9ee0-45a9-bf07-c57e39f29d3b",
+          "parent_table": "block",
+          "alive": true,
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "69d73ac0-982e-4b69-a0ee-f4fe615f6b54": {
+        "role": "reader",
+        "value": {
+          "id": "69d73ac0-982e-4b69-a0ee-f4fe615f6b54",
+          "version": 32,
+          "type": "table",
+          "format": {
+            "table_wrap": true,
+            "table_properties": [
+              { "width": 276, "visible": true, "property": "title" },
+              { "width": 72, "visible": true, "property": "TO}@" },
+              { "width": 200, "visible": true, "property": "~?dF" },
+              { "width": 200, "visible": true, "property": "XWe}" },
+              { "width": 200, "visible": true, "property": "qqlW" },
+              { "width": 200, "visible": true, "property": "ePJl" }
+            ],
+            "collection_pointer": {
+              "id": "85cf5c11-0761-4d79-a0c1-ca451828c97d",
+              "table": "collection",
+              "spaceId": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+            }
+          },
+          "parent_id": "e17d56ae-9ee0-45a9-bf07-c57e39f29d3b",
+          "parent_table": "block",
+          "alive": true,
+          "page_sort": [
+            "2eb00b78-51f0-4f6a-a9e7-71729f36a068",
+            "a90ae9f7-8964-432d-9f97-db65709d527f",
+            "927e2c5e-4b1a-4f97-9a49-48f35ae857bf",
+            "8cde0f35-e8b4-4500-bf08-4c6e72276f0c",
+            "1593a4a1-f9b4-4436-b5a5-716985e26914",
+            "6e93d44a-3d44-4f4f-948a-b52835214b86",
+            "c7d444f8-0781-45eb-a075-57a2dcbce816",
+            "91b9d5aa-4423-45dc-ad09-6b4e21764aa3",
+            "57d52bd1-53c1-4749-8c0e-1bf44856feb9",
+            "eb10527b-87b7-4bb4-b881-73a739b356b1",
+            "308646b5-a9d3-46c3-95c9-b39ac1d46be9",
+            "c315aa1c-cbe1-4745-9a06-f2e9d2aadd6e",
+            "4ec10aae-7f03-469f-9733-206063924279",
+            "830a65e3-0b50-453b-b290-8c92997a38af",
+            "0a4fb809-e957-4c5c-8dde-09c932b0ddaf",
+            "0a4c400a-9b84-43a1-8d71-c236cdcb8793",
+            "67e2cc68-7b8a-4a2f-8098-ee68ccdc227f"
+          ],
+          "query2": { "aggregations": [{ "property": "title", "aggregator": "count" }] },
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      }
+    },
+    "notion_user": {},
+    "collection_query": {},
+    "signed_urls": {}
+  }
+}
