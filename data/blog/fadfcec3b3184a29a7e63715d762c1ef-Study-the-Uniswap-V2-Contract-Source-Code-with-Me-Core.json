@@ -1,0 +1,2598 @@
+{
+  "object": "page",
+  "id": "fadfcec3-b318-4a29-a7e6-3715d762c1ef",
+  "created_time": "2022-04-03T02:07:00.000Z",
+  "last_edited_time": "2022-04-03T05:03:00.000Z",
+  "created_by": { "object": "user", "id": "06d19bad-3e46-4f88-a82f-6e42f5b09136" },
+  "last_edited_by": { "object": "user", "id": "06d19bad-3e46-4f88-a82f-6e42f5b09136" },
+  "cover": null,
+  "icon": null,
+  "parent": { "type": "database_id", "database_id": "e17d56ae-9ee0-45a9-bf07-c57e39f29d3b" },
+  "archived": false,
+  "properties": {
+    "Published": { "id": "TO%7D%40", "type": "checkbox", "checkbox": true },
+    "Tags": { "id": "XWe%7D", "type": "multi_select", "multi_select": [] },
+    "Updated": {
+      "id": "ePJl",
+      "type": "last_edited_time",
+      "last_edited_time": "2022-04-03T05:03:00.000Z"
+    },
+    "Created": { "id": "qqlW", "type": "created_time", "created_time": "2022-04-03T02:07:00.000Z" },
+    "Slug": {
+      "id": "~%3FdF",
+      "type": "formula",
+      "formula": {
+        "type": "string",
+        "string": "fadfcec3b3184a29a7e63715d762c1ef-Study-the-Uniswap-V2-Contract-Source-Code-with-Me-Core"
+      }
+    },
+    "Title": {
+      "id": "title",
+      "type": "title",
+      "title": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Study the Uniswap V2 Contract Source Code with Me - Core",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Study the Uniswap V2 Contract Source Code with Me - Core",
+          "href": null
+        }
+      ]
+    }
+  },
+  "url": "https://www.notion.so/Study-the-Uniswap-V2-Contract-Source-Code-with-Me-Core-fadfcec3b3184a29a7e63715d762c1ef",
+  "recordMap": {
+    "block": {
+      "fadfcec3-b318-4a29-a7e6-3715d762c1ef": {
+        "role": "reader",
+        "value": {
+          "id": "fadfcec3-b318-4a29-a7e6-3715d762c1ef",
+          "version": 307,
+          "type": "page",
+          "properties": {
+            "TO}@": [["Yes"]],
+            "title": [["Study the Uniswap V2 Contract Source Code with Me - Core"]]
+          },
+          "content": [
+            "30e1c2c2-b434-400a-8c32-e21e5b25bd79",
+            "e349c247-cd8c-40d1-83b6-f74e245f843a",
+            "658ef439-1231-4fa6-acf2-e5b569ad5702",
+            "62ed47ab-fb5f-488d-83fc-56b63b304368",
+            "dd748ede-74e3-4bc2-9838-b973ebb490af",
+            "ee99d3eb-a346-4afc-903f-d2175dd1096f",
+            "307df9ff-1e3b-4ff0-9bac-f759ad408793",
+            "27d579a4-f1cc-40b1-9a78-85bb606c1d69",
+            "04a381a5-318c-4357-b62b-251901d7cd45",
+            "8568137d-a553-4fbc-bece-1ec1b4c54376",
+            "ae73568a-64d1-4c87-87a6-d9384f21c12d",
+            "fdcc344b-e9a7-4d1b-b293-6ca0e5c0540f",
+            "51d91c34-b86f-43c4-9993-26401dabb375",
+            "12278776-3964-4d65-b5f6-3553c47c41c1",
+            "c85d09fa-c87f-4433-a18e-1216d70d1b6f",
+            "8dea9941-af82-48e0-8e6a-255d7043a4a9",
+            "aae57e52-a1b1-4c35-81f3-359961b51de7",
+            "009f913c-9b26-40a2-9dac-814e7c57fe62",
+            "3aa9b4f6-e162-4cfc-8eca-18a23c812351",
+            "19067563-60aa-4dc0-9b13-94937d5ceedb",
+            "15defdd7-68f0-4e32-b306-c09b844d22dc",
+            "7010936d-466b-48db-98dc-6ab70508aaaf",
+            "43ccd955-4b79-41dd-81aa-912e889a7c73",
+            "a6a823e7-93be-4cd7-89d7-aea6055a48bf",
+            "1f112c34-63bb-4404-bdcb-5f89b97055b9",
+            "7d45a3ac-2f23-4e19-b7a3-5dd4352836de",
+            "2d91deb2-b577-4685-aa8f-e2e26b3fd592",
+            "7846b6cc-f29d-4e78-ad7e-7ab86e53f205",
+            "5d13314b-a957-4a90-930a-4529e1ab5bb3",
+            "7acbcce3-1436-4dee-b285-dbae8451db0a",
+            "d63f561b-c141-427e-8301-297fbefcba65",
+            "b0d08844-37a2-4d56-82ec-5e4415ebbea4",
+            "71cb6452-337b-4fb4-ac01-b4f407565219",
+            "698039f5-cd1c-4c97-9d1e-b4507c3e58f9",
+            "db17d17b-2ec0-463f-8b56-f15cba25f6b1",
+            "21249a6b-9cc3-4cb2-98eb-2408231e6551",
+            "0864cbf2-798e-4848-817f-55337c0f5896",
+            "9745d1b7-1088-4883-a41d-79e6ff2663bd",
+            "36c5d77c-29d5-46ad-a26a-189666657c63",
+            "1d155a6f-0430-4137-b814-0bc55e5ec034",
+            "98c51d86-d722-4c60-8b12-b29a52004b44",
+            "699c0d46-8f05-4ed9-b8af-4081491f71f8",
+            "1be271c5-b37d-4ae7-85cf-3424d69f2e0a",
+            "749154b0-b31e-4fb4-aabd-021fbe7790e6",
+            "c5b036cd-5f6f-402e-bb61-1cab04a17e5c",
+            "f7b5f939-ce61-419b-ad62-2f58387d4ee2",
+            "30b20a1f-f109-432a-a4ea-1d99dd56a01f",
+            "06a49976-91c0-49e6-bc3d-4ba6979f4a4a",
+            "cba0a4e1-b11e-4155-a90f-043e7f7ac70d",
+            "da9113bb-274c-41d7-b2e6-cb90c48b541e",
+            "b824d5a2-d4a8-4c20-97fd-e15c03f3d502",
+            "3093996e-b108-4981-94c6-22684a23562a",
+            "10815297-9c54-4a26-990e-bb7369856be4",
+            "903a954e-ad0c-4396-b671-116a659e8f0d",
+            "0a744c2d-1331-4959-b6da-dadbb4d0ff80",
+            "2dc82fce-6902-47d2-973e-11125adaa05f",
+            "3ca701b8-ed00-46d5-baeb-e452ee333616",
+            "25679f24-bd5e-4fc9-b2e3-90ffcfa28666",
+            "55f0c405-503e-4b35-8aec-2983f9be955f",
+            "bea85a31-9d24-48f5-bedf-f455eea5339a",
+            "1fd426dd-3195-469e-beec-172dbeac3b0f",
+            "f6c4f5be-38bb-40cc-a3ce-de22fb13998c",
+            "b02cea65-05cf-4dda-a0df-bfa532b54798",
+            "398aa86f-ae4f-481b-8249-b6e7b72fc2a2",
+            "01fd27fb-33e8-4398-ab9a-15f08a6be10d",
+            "10d6eafb-0f27-4629-a145-885fbc87df4b",
+            "4ffc64fa-91cd-45d1-9e85-60db2b7c8cdf",
+            "3a159452-805c-4856-9be4-4fc24c333265",
+            "1f22bc57-72ec-4eaa-a976-4940608a88ad",
+            "4724ccac-2cc2-48fd-bf7f-3829c62a1be8",
+            "fc033114-99a9-4d92-9caa-abe00d5eeb4c",
+            "7d922b01-3318-4a34-adbb-296f57731848",
+            "2b08e9bf-53a7-441d-b116-a9fdeea4e39c",
+            "fb0fa050-7d46-460e-9eca-83fddaaf83a3",
+            "3e4a3945-2d63-40a4-a7c4-1540c26bc2ea",
+            "c7fb7241-0636-4a0e-95ec-2f6bc814619d",
+            "68333387-0b8e-4018-9a3a-663fe8636226",
+            "0ef0cc0f-543c-40de-9b6d-774ff3642f5a",
+            "4a17a4ed-3921-40dc-9646-30e33a993288",
+            "e90d235f-f4e1-4c47-bace-5735946e146b",
+            "26c8e899-73cb-4027-9f35-16d0ad359d5d",
+            "b0ccaacd-92ff-4ff8-b173-5c32b5a647a8",
+            "f202effb-19f5-4442-b6ff-9742f0bcf648",
+            "8a8c6143-8715-440f-9ee7-a882b7916580",
+            "b5f7cbf8-1eeb-4ea2-b5e8-784b9b0bb64a",
+            "c5f93d79-e539-4b77-b34d-4039ff65cabf",
+            "7ac900a1-f3f9-4a28-afd9-a21e4890b3a1",
+            "b5763da5-7cee-42f1-9bc7-2eae5baf7b76",
+            "dc0951d6-5ef4-4ebb-932c-757c105c370f",
+            "5efbd5f9-1f28-428d-9f6d-e6f8e330f1fb",
+            "a39652f6-5ce1-4b79-bf57-845d86ed8b9b"
+          ],
+          "created_time": 1648951620000,
+          "last_edited_time": 1648962180000,
+          "parent_id": "85cf5c11-0761-4d79-a0c1-ca451828c97d",
+          "parent_table": "collection",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "e17d56ae-9ee0-45a9-bf07-c57e39f29d3b": {
+        "role": "reader",
+        "value": {
+          "id": "e17d56ae-9ee0-45a9-bf07-c57e39f29d3b",
+          "version": 570,
+          "type": "collection_view_page",
+          "view_ids": [
+            "980d8e69-776b-4151-a4f3-118c8192bfec",
+            "50ebfde9-8d32-4009-8ff9-85e0208616c7",
+            "69d73ac0-982e-4b69-a0ee-f4fe615f6b54"
+          ],
+          "format": {
+            "collection_pointer": {
+              "id": "85cf5c11-0761-4d79-a0c1-ca451828c97d",
+              "table": "collection",
+              "spaceId": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+            }
+          },
+          "permissions": [
+            {
+              "role": "editor",
+              "type": "user_permission",
+              "user_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136"
+            },
+            {
+              "role": { "read_content": true },
+              "type": "bot_permission",
+              "bot_id": "7f9f671b-734a-4bd7-9152-616b4ac7d1c2",
+              "parent_id": "1527a998-78d1-4636-a8c0-f1317a5261e6",
+              "parent_table": "space"
+            },
+            { "role": "reader", "type": "public_permission", "added_timestamp": 1648555162360 }
+          ],
+          "created_time": 1648450709676,
+          "last_edited_time": 1648951631929,
+          "parent_id": "1527a998-78d1-4636-a8c0-f1317a5261e6",
+          "parent_table": "space",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "30e1c2c2-b434-400a-8c32-e21e5b25bd79": {
+        "role": "reader",
+        "value": {
+          "id": "30e1c2c2-b434-400a-8c32-e21e5b25bd79",
+          "version": 60,
+          "type": "text",
+          "properties": { "title": [["today we’ll study the Uniswap core contract."]] },
+          "created_time": 1648951620000,
+          "last_edited_time": 1648951680000,
+          "parent_id": "fadfcec3-b318-4a29-a7e6-3715d762c1ef",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "e349c247-cd8c-40d1-83b6-f74e245f843a": {
+        "role": "reader",
+        "value": {
+          "id": "e349c247-cd8c-40d1-83b6-f74e245f843a",
+          "version": 12,
+          "type": "divider",
+          "created_time": 1648951680000,
+          "last_edited_time": 1648951680000,
+          "parent_id": "fadfcec3-b318-4a29-a7e6-3715d762c1ef",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "658ef439-1231-4fa6-acf2-e5b569ad5702": {
+        "role": "reader",
+        "value": {
+          "id": "658ef439-1231-4fa6-acf2-e5b569ad5702",
+          "version": 24,
+          "type": "header",
+          "properties": { "title": [["v2-core", [["c"]]]] },
+          "created_time": 1648951725368,
+          "last_edited_time": 1648951680000,
+          "parent_id": "fadfcec3-b318-4a29-a7e6-3715d762c1ef",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "62ed47ab-fb5f-488d-83fc-56b63b304368": {
+        "role": "reader",
+        "value": {
+          "id": "62ed47ab-fb5f-488d-83fc-56b63b304368",
+          "version": 59,
+          "type": "text",
+          "properties": { "title": [["the project structure is also very simple:"]] },
+          "created_time": 1648951680000,
+          "last_edited_time": 1648951740000,
+          "parent_id": "fadfcec3-b318-4a29-a7e6-3715d762c1ef",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "dd748ede-74e3-4bc2-9838-b973ebb490af": {
+        "role": "reader",
+        "value": {
+          "id": "dd748ede-74e3-4bc2-9838-b973ebb490af",
+          "version": 9,
+          "type": "image",
+          "properties": {
+            "size": [["19.8KB"]],
+            "title": [["Untitled"]],
+            "source": [
+              [
+                "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/de57cf7c-af5d-4b1b-8f0b-489f36637fac/Untitled.png"
+              ]
+            ]
+          },
+          "format": {
+            "block_width": 274,
+            "block_height": 334,
+            "display_source": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/de57cf7c-af5d-4b1b-8f0b-489f36637fac/Untitled.png",
+            "block_full_width": false,
+            "block_page_width": false,
+            "block_aspect_ratio": 1.218978102189781,
+            "block_preserve_scale": true
+          },
+          "created_time": 1648951740000,
+          "last_edited_time": 1648951740000,
+          "parent_id": "fadfcec3-b318-4a29-a7e6-3715d762c1ef",
+          "parent_table": "block",
+          "alive": true,
+          "file_ids": ["de57cf7c-af5d-4b1b-8f0b-489f36637fac"],
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "ee99d3eb-a346-4afc-903f-d2175dd1096f": {
+        "role": "reader",
+        "value": {
+          "id": "ee99d3eb-a346-4afc-903f-d2175dd1096f",
+          "version": 121,
+          "type": "text",
+          "properties": {
+            "title": [
+              ["there’s only three contracts to look into "],
+              ["UniswapV2ERC20", [["c"]]],
+              [", "],
+              ["UniswapV2Factory", [["c"]]],
+              [" and "],
+              ["UniswapV2Pair", [["c"]]]
+            ]
+          },
+          "created_time": 1648951740000,
+          "last_edited_time": 1648951860000,
+          "parent_id": "fadfcec3-b318-4a29-a7e6-3715d762c1ef",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "307df9ff-1e3b-4ff0-9bac-f759ad408793": {
+        "role": "reader",
+        "value": {
+          "id": "307df9ff-1e3b-4ff0-9bac-f759ad408793",
+          "version": 3,
+          "type": "text",
+          "created_time": 1648952027784,
+          "last_edited_time": 1648951980000,
+          "parent_id": "fadfcec3-b318-4a29-a7e6-3715d762c1ef",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "27d579a4-f1cc-40b1-9a78-85bb606c1d69": {
+        "role": "reader",
+        "value": {
+          "id": "27d579a4-f1cc-40b1-9a78-85bb606c1d69",
+          "version": 239,
+          "type": "text",
+          "properties": {
+            "title": [
+              ["i recall in the library file of pheriphery, it has interacted with "],
+              ["UniswapV2Factory", [["c"]]],
+              ["'s "],
+              ["createPair", [["c"]]],
+              [" and "],
+              ["UniswapV2Pair", [["c"]]],
+              ["'s "],
+              ["swap", [["c"]]],
+              [" and so on"]
+            ]
+          },
+          "created_time": 1648951903162,
+          "last_edited_time": 1648951980000,
+          "parent_id": "fadfcec3-b318-4a29-a7e6-3715d762c1ef",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "04a381a5-318c-4357-b62b-251901d7cd45": {
+        "role": "reader",
+        "value": {
+          "id": "04a381a5-318c-4357-b62b-251901d7cd45",
+          "version": 6,
+          "type": "text",
+          "created_time": 1648952640000,
+          "last_edited_time": 1648952640000,
+          "parent_id": "fadfcec3-b318-4a29-a7e6-3715d762c1ef",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "8568137d-a553-4fbc-bece-1ec1b4c54376": {
+        "role": "reader",
+        "value": {
+          "id": "8568137d-a553-4fbc-bece-1ec1b4c54376",
+          "version": 170,
+          "type": "text",
+          "properties": {
+            "title": [
+              ["at first i thought only the "],
+              ["Router", [["c"]]],
+              [
+                " are allowed to invoke the factory and the pair contract, it turns out that i am wrong, it turns out anyone can invoke it, making a "
+              ],
+              ["Router", [["c"]]],
+              [" just saves user from repeating approve the lp token address"]
+            ]
+          },
+          "created_time": 1648952640000,
+          "last_edited_time": 1648952760000,
+          "parent_id": "fadfcec3-b318-4a29-a7e6-3715d762c1ef",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "ae73568a-64d1-4c87-87a6-d9384f21c12d": {
+        "role": "reader",
+        "value": {
+          "id": "ae73568a-64d1-4c87-87a6-d9384f21c12d",
+          "version": 14,
+          "type": "divider",
+          "created_time": 1648951980000,
+          "last_edited_time": 1648951980000,
+          "parent_id": "fadfcec3-b318-4a29-a7e6-3715d762c1ef",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "fdcc344b-e9a7-4d1b-b293-6ca0e5c0540f": {
+        "role": "reader",
+        "value": {
+          "id": "fdcc344b-e9a7-4d1b-b293-6ca0e5c0540f",
+          "version": 16,
+          "type": "sub_header",
+          "properties": { "title": [["UniswapV2Factory", [["c"]]]] },
+          "created_time": 1648952035737,
+          "last_edited_time": 1648952040000,
+          "parent_id": "fadfcec3-b318-4a29-a7e6-3715d762c1ef",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "51d91c34-b86f-43c4-9993-26401dabb375": {
+        "role": "reader",
+        "value": {
+          "id": "51d91c34-b86f-43c4-9993-26401dabb375",
+          "version": 250,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "this is a factory contract to create the pair contract, i.e. the lp token contract, it is not only an erc20, but also has logic to handle swapping and liquidity"
+              ]
+            ]
+          },
+          "created_time": 1648952040000,
+          "last_edited_time": 1648952760000,
+          "parent_id": "fadfcec3-b318-4a29-a7e6-3715d762c1ef",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "12278776-3964-4d65-b5f6-3553c47c41c1": {
+        "role": "reader",
+        "value": {
+          "id": "12278776-3964-4d65-b5f6-3553c47c41c1",
+          "version": 12,
+          "type": "divider",
+          "created_time": 1648952100000,
+          "last_edited_time": 1648952100000,
+          "parent_id": "fadfcec3-b318-4a29-a7e6-3715d762c1ef",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "c85d09fa-c87f-4433-a18e-1216d70d1b6f": {
+        "role": "reader",
+        "value": {
+          "id": "c85d09fa-c87f-4433-a18e-1216d70d1b6f",
+          "version": 55,
+          "type": "sub_sub_header",
+          "properties": { "title": [["State variables and events"]] },
+          "created_time": 1648952120040,
+          "last_edited_time": 1648952160000,
+          "parent_id": "fadfcec3-b318-4a29-a7e6-3715d762c1ef",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "8dea9941-af82-48e0-8e6a-255d7043a4a9": {
+        "role": "reader",
+        "value": {
+          "id": "8dea9941-af82-48e0-8e6a-255d7043a4a9",
+          "version": 35,
+          "type": "code",
+          "properties": {
+            "title": [
+              [
+                "address public feeTo;\naddress public feeToSetter;\n\nmapping(address => mapping(address => address)) public getPair;\naddress[] public allPairs;\n\nevent PairCreated(address indexed token0, address indexed token1, address pair, uint);\n\nfunction allPairsLength() external view returns (uint) {\n    return allPairs.length;\n}\n\n...\n\nfunction setFeeTo(address _feeTo) external {\n    require(msg.sender == feeToSetter, 'UniswapV2: FORBIDDEN');\n    feeTo = _feeTo;\n}\n\nfunction setFeeToSetter(address _feeToSetter) external {\n    require(msg.sender == feeToSetter, 'UniswapV2: FORBIDDEN');\n    feeToSetter = _feeToSetter;\n}"
+              ]
+            ],
+            "language": [["Solidity"]]
+          },
+          "created_time": 1648952100000,
+          "last_edited_time": 1648956360000,
+          "parent_id": "fadfcec3-b318-4a29-a7e6-3715d762c1ef",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "aae57e52-a1b1-4c35-81f3-359961b51de7": {
+        "role": "reader",
+        "value": {
+          "id": "aae57e52-a1b1-4c35-81f3-359961b51de7",
+          "version": 146,
+          "type": "text",
+          "properties": {
+            "title": [
+              ["right now, i have not much idea about "],
+              ["feeTo", [["c"]]],
+              [" and "],
+              ["feeToSetter", [["c"]]],
+              [", but i think it has something to do with pair contract"]
+            ]
+          },
+          "created_time": 1648951980000,
+          "last_edited_time": 1648952280000,
+          "parent_id": "fadfcec3-b318-4a29-a7e6-3715d762c1ef",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "009f913c-9b26-40a2-9dac-814e7c57fe62": {
+        "role": "reader",
+        "value": {
+          "id": "009f913c-9b26-40a2-9dac-814e7c57fe62",
+          "version": 6,
+          "type": "text",
+          "created_time": 1648952280000,
+          "last_edited_time": 1648952280000,
+          "parent_id": "fadfcec3-b318-4a29-a7e6-3715d762c1ef",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "3aa9b4f6-e162-4cfc-8eca-18a23c812351": {
+        "role": "reader",
+        "value": {
+          "id": "3aa9b4f6-e162-4cfc-8eca-18a23c812351",
+          "version": 91,
+          "type": "text",
+          "properties": {
+            "title": [
+              ["getPair", [["c"]]],
+              [" is a mapping that index the lp address and token addresses"]
+            ]
+          },
+          "created_time": 1648952280000,
+          "last_edited_time": 1648952280000,
+          "parent_id": "fadfcec3-b318-4a29-a7e6-3715d762c1ef",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "19067563-60aa-4dc0-9b13-94937d5ceedb": {
+        "role": "reader",
+        "value": {
+          "id": "19067563-60aa-4dc0-9b13-94937d5ceedb",
+          "version": 9,
+          "type": "text",
+          "created_time": 1648952280000,
+          "last_edited_time": 1648952280000,
+          "parent_id": "fadfcec3-b318-4a29-a7e6-3715d762c1ef",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "15defdd7-68f0-4e32-b306-c09b844d22dc": {
+        "role": "reader",
+        "value": {
+          "id": "15defdd7-68f0-4e32-b306-c09b844d22dc",
+          "version": 78,
+          "type": "text",
+          "properties": {
+            "title": [["allPairs", [["c"]]], [" is an array storing all the pairs"]]
+          },
+          "created_time": 1648952280000,
+          "last_edited_time": 1648952340000,
+          "parent_id": "fadfcec3-b318-4a29-a7e6-3715d762c1ef",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "7010936d-466b-48db-98dc-6ab70508aaaf": {
+        "role": "reader",
+        "value": {
+          "id": "7010936d-466b-48db-98dc-6ab70508aaaf",
+          "version": 6,
+          "type": "text",
+          "created_time": 1648952340000,
+          "last_edited_time": 1648952340000,
+          "parent_id": "fadfcec3-b318-4a29-a7e6-3715d762c1ef",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "43ccd955-4b79-41dd-81aa-912e889a7c73": {
+        "role": "reader",
+        "value": {
+          "id": "43ccd955-4b79-41dd-81aa-912e889a7c73",
+          "version": 98,
+          "type": "text",
+          "properties": {
+            "title": [
+              ["there’s also an event which i believe will be emitted by the "],
+              ["createPair", [["c"]]],
+              [" function"]
+            ]
+          },
+          "created_time": 1648952340000,
+          "last_edited_time": 1648952400000,
+          "parent_id": "fadfcec3-b318-4a29-a7e6-3715d762c1ef",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "a6a823e7-93be-4cd7-89d7-aea6055a48bf": {
+        "role": "reader",
+        "value": {
+          "id": "a6a823e7-93be-4cd7-89d7-aea6055a48bf",
+          "version": 6,
+          "type": "text",
+          "created_time": 1648952400000,
+          "last_edited_time": 1648952400000,
+          "parent_id": "fadfcec3-b318-4a29-a7e6-3715d762c1ef",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "1f112c34-63bb-4404-bdcb-5f89b97055b9": {
+        "role": "reader",
+        "value": {
+          "id": "1f112c34-63bb-4404-bdcb-5f89b97055b9",
+          "version": 81,
+          "type": "text",
+          "properties": { "title": [["there’s also a function that returns the pair length"]] },
+          "created_time": 1648952400000,
+          "last_edited_time": 1648952460000,
+          "parent_id": "fadfcec3-b318-4a29-a7e6-3715d762c1ef",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "7d45a3ac-2f23-4e19-b7a3-5dd4352836de": {
+        "role": "reader",
+        "value": {
+          "id": "7d45a3ac-2f23-4e19-b7a3-5dd4352836de",
+          "version": 6,
+          "type": "text",
+          "created_time": 1648952460000,
+          "last_edited_time": 1648952460000,
+          "parent_id": "fadfcec3-b318-4a29-a7e6-3715d762c1ef",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "2d91deb2-b577-4685-aa8f-e2e26b3fd592": {
+        "role": "reader",
+        "value": {
+          "id": "2d91deb2-b577-4685-aa8f-e2e26b3fd592",
+          "version": 179,
+          "type": "text",
+          "properties": {
+            "title": [
+              ["and there are two trivial setters that are put in the end, and only the "],
+              ["feeToSetter", [["c"]]],
+              [" are allowed to set it"]
+            ]
+          },
+          "created_time": 1648952460000,
+          "last_edited_time": 1648952520000,
+          "parent_id": "fadfcec3-b318-4a29-a7e6-3715d762c1ef",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "7846b6cc-f29d-4e78-ad7e-7ab86e53f205": {
+        "role": "reader",
+        "value": {
+          "id": "7846b6cc-f29d-4e78-ad7e-7ab86e53f205",
+          "version": 11,
+          "type": "divider",
+          "created_time": 1648952340000,
+          "last_edited_time": 1648952340000,
+          "parent_id": "fadfcec3-b318-4a29-a7e6-3715d762c1ef",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "5d13314b-a957-4a90-930a-4529e1ab5bb3": {
+        "role": "reader",
+        "value": {
+          "id": "5d13314b-a957-4a90-930a-4529e1ab5bb3",
+          "version": 26,
+          "type": "sub_sub_header",
+          "properties": { "title": [["createPair", [["c"]]]] },
+          "created_time": 1648952380962,
+          "last_edited_time": 1648952520000,
+          "parent_id": "fadfcec3-b318-4a29-a7e6-3715d762c1ef",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "7acbcce3-1436-4dee-b285-dbae8451db0a": {
+        "role": "reader",
+        "value": {
+          "id": "7acbcce3-1436-4dee-b285-dbae8451db0a",
+          "version": 77,
+          "type": "code",
+          "properties": {
+            "title": [
+              [
+                "function createPair(address tokenA, address tokenB) external returns (address pair) {\n    // first two pair cannot be the same\n    require(tokenA != tokenB, 'UniswapV2: IDENTICAL_ADDRESSES');\n    // make sure there is only one order to create the lp\n    (address token0, address token1) = tokenA < tokenB ? (tokenA, tokenB) : (tokenB, tokenA);\n    // token0 cannot be address 0!\n    // also, token1 is greater than token0 so there is not way that token1 is address 0\n    require(token0 != address(0), 'UniswapV2: ZERO_ADDRESS');\n    require(getPair[token0][token1] == address(0), 'UniswapV2: PAIR_EXISTS'); // single check is sufficient\n    // byte code here is created\n    bytes memory bytecode = type(UniswapV2Pair).creationCode;\n    // salt is just the hash of two token addresses\n    // using salt should make create2 predictable\n    bytes32 salt = keccak256(abi.encodePacked(token0, token1));\n    // using the assembly to create the lp token\n    assembly {\n        // create2 should be able to make a determinstic pair address\n        // bytecode here should be a memory location\n        // so it skip the first 32 bytes\n        pair := create2(0, add(bytecode, 32), mload(bytecode), salt)\n    }\n    // after calling the constructor, initialize the token address\n    // create2 doesn't seem to call the constructor\n    IUniswapV2Pair(pair).initialize(token0, token1);\n    // index the token so it can be found\n    getPair[token0][token1] = pair;\n    getPair[token1][token0] = pair; // populate mapping in the reverse direction\n    // push to the array\n    allPairs.push(pair);\n    emit PairCreated(token0, token1, pair, allPairs.length);\n}"
+              ]
+            ],
+            "language": [["Solidity"]]
+          },
+          "created_time": 1648952520000,
+          "last_edited_time": 1648956420000,
+          "parent_id": "fadfcec3-b318-4a29-a7e6-3715d762c1ef",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "d63f561b-c141-427e-8301-297fbefcba65": {
+        "role": "reader",
+        "value": {
+          "id": "d63f561b-c141-427e-8301-297fbefcba65",
+          "version": 147,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "i think overall the logic is very easy to understand, the only confusing part for me is "
+              ],
+              ["create2", [["c"]]]
+            ]
+          },
+          "created_time": 1648953360000,
+          "last_edited_time": 1648953360000,
+          "parent_id": "fadfcec3-b318-4a29-a7e6-3715d762c1ef",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "b0d08844-37a2-4d56-82ec-5e4415ebbea4": {
+        "role": "reader",
+        "value": {
+          "id": "b0d08844-37a2-4d56-82ec-5e4415ebbea4",
+          "version": 6,
+          "type": "text",
+          "created_time": 1648953900000,
+          "last_edited_time": 1648953900000,
+          "parent_id": "fadfcec3-b318-4a29-a7e6-3715d762c1ef",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "71cb6452-337b-4fb4-ac01-b4f407565219": {
+        "role": "reader",
+        "value": {
+          "id": "71cb6452-337b-4fb4-ac01-b4f407565219",
+          "version": 174,
+          "type": "text",
+          "properties": {
+            "title": [
+              ["this is to make sure the lp token can be precomputed using this "],
+              [
+                "method",
+                [
+                  [
+                    "a",
+                    "https://docs.soliditylang.org/en/v0.8.11/control-structures.html#salted-contract-creations-create2"
+                  ]
+                ]
+              ],
+              [" which can be seen in the library of "],
+              ["Router02", [["c"]]]
+            ]
+          },
+          "created_time": 1648953360000,
+          "last_edited_time": 1648953900000,
+          "parent_id": "fadfcec3-b318-4a29-a7e6-3715d762c1ef",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "698039f5-cd1c-4c97-9d1e-b4507c3e58f9": {
+        "role": "reader",
+        "value": {
+          "id": "698039f5-cd1c-4c97-9d1e-b4507c3e58f9",
+          "version": 5,
+          "type": "text",
+          "created_time": 1648953960000,
+          "last_edited_time": 1648953960000,
+          "parent_id": "fadfcec3-b318-4a29-a7e6-3715d762c1ef",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "db17d17b-2ec0-463f-8b56-f15cba25f6b1": {
+        "role": "reader",
+        "value": {
+          "id": "db17d17b-2ec0-463f-8b56-f15cba25f6b1",
+          "version": 146,
+          "type": "text",
+          "properties": {
+            "title": [
+              ["according to the inline assembly "],
+              ["yul", [["c"]]],
+              ["'s documentation, "],
+              ["create2(v, p, n, s)", [["c"]]],
+              [" has for arguments:"]
+            ]
+          },
+          "created_time": 1648953900000,
+          "last_edited_time": 1648954020000,
+          "parent_id": "fadfcec3-b318-4a29-a7e6-3715d762c1ef",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "21249a6b-9cc3-4cb2-98eb-2408231e6551": {
+        "role": "reader",
+        "value": {
+          "id": "21249a6b-9cc3-4cb2-98eb-2408231e6551",
+          "version": 73,
+          "type": "bulleted_list",
+          "properties": {
+            "title": [["create new contract with code "], ["mem[p…(p+n))", [["c"]]]]
+          },
+          "content": [
+            "73c93a3f-8cc6-483b-aad6-859324cf2f6b",
+            "be393112-6984-44a6-b258-ab7628dea8f5",
+            "2923b40f-60ae-46df-92f5-9f7f3c0c7a2b"
+          ],
+          "created_time": 1648954140000,
+          "last_edited_time": 1648954620000,
+          "parent_id": "fadfcec3-b318-4a29-a7e6-3715d762c1ef",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "73c93a3f-8cc6-483b-aad6-859324cf2f6b": {
+        "role": "reader",
+        "value": {
+          "id": "73c93a3f-8cc6-483b-aad6-859324cf2f6b",
+          "version": 116,
+          "type": "bulleted_list",
+          "properties": {
+            "title": [
+              ["here, "],
+              ["p", [["c"]]],
+              [" is the memory location of "],
+              ["bytecode", [["c"]]],
+              [" added with a word"]
+            ]
+          },
+          "created_time": 1648954560000,
+          "last_edited_time": 1648954620000,
+          "parent_id": "21249a6b-9cc3-4cb2-98eb-2408231e6551",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "be393112-6984-44a6-b258-ab7628dea8f5": {
+        "role": "reader",
+        "value": {
+          "id": "be393112-6984-44a6-b258-ab7628dea8f5",
+          "version": 125,
+          "type": "bulleted_list",
+          "properties": {
+            "title": [
+              ["n", [["c"]]],
+              [" should be the length of the init code, and it is "],
+              ["mload(bytecode)", [["c"]]],
+              [", which loads the first word"]
+            ]
+          },
+          "created_time": 1648954620000,
+          "last_edited_time": 1648954740000,
+          "parent_id": "21249a6b-9cc3-4cb2-98eb-2408231e6551",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "2923b40f-60ae-46df-92f5-9f7f3c0c7a2b": {
+        "role": "reader",
+        "value": {
+          "id": "2923b40f-60ae-46df-92f5-9f7f3c0c7a2b",
+          "version": 175,
+          "type": "bulleted_list",
+          "properties": {
+            "title": [
+              ["my guess here is that the first word (32 bytes) of the "],
+              ["bytecode", [["c"]]],
+              [" is the length of the initcode, then it’s followed by the actual code"]
+            ]
+          },
+          "created_time": 1648954620000,
+          "last_edited_time": 1648954680000,
+          "parent_id": "21249a6b-9cc3-4cb2-98eb-2408231e6551",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "0864cbf2-798e-4848-817f-55337c0f5896": {
+        "role": "reader",
+        "value": {
+          "id": "0864cbf2-798e-4848-817f-55337c0f5896",
+          "version": 3,
+          "type": "bulleted_list",
+          "properties": { "title": [["v", [["c"]]], [" is the wei sent to the new address"]] },
+          "created_time": 1648954020000,
+          "last_edited_time": 1648954140000,
+          "parent_id": "fadfcec3-b318-4a29-a7e6-3715d762c1ef",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "9745d1b7-1088-4883-a41d-79e6ff2663bd": {
+        "role": "reader",
+        "value": {
+          "id": "9745d1b7-1088-4883-a41d-79e6ff2663bd",
+          "version": 69,
+          "type": "bulleted_list",
+          "properties": {
+            "title": [
+              ["s", [["c"]]],
+              [" is the "],
+              ["bytes32", [["c"]]],
+              [" that is used to replace nonce i think"]
+            ]
+          },
+          "created_time": 1648954080000,
+          "last_edited_time": 1648954200000,
+          "parent_id": "fadfcec3-b318-4a29-a7e6-3715d762c1ef",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "36c5d77c-29d5-46ad-a26a-189666657c63": {
+        "role": "reader",
+        "value": {
+          "id": "36c5d77c-29d5-46ad-a26a-189666657c63",
+          "version": 12,
+          "type": "divider",
+          "created_time": 1648954740000,
+          "last_edited_time": 1648954800000,
+          "parent_id": "fadfcec3-b318-4a29-a7e6-3715d762c1ef",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "1d155a6f-0430-4137-b814-0bc55e5ec034": {
+        "role": "reader",
+        "value": {
+          "id": "1d155a6f-0430-4137-b814-0bc55e5ec034",
+          "version": 17,
+          "type": "sub_header",
+          "properties": { "title": [["UniswapV2ERC20", [["c"]]]] },
+          "created_time": 1648954807090,
+          "last_edited_time": 1648954800000,
+          "parent_id": "fadfcec3-b318-4a29-a7e6-3715d762c1ef",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "98c51d86-d722-4c60-8b12-b29a52004b44": {
+        "role": "reader",
+        "value": {
+          "id": "98c51d86-d722-4c60-8b12-b29a52004b44",
+          "version": 165,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "this is the base of the lp pair contract, which is a erc20 and uses eip712 standard"
+              ]
+            ]
+          },
+          "created_time": 1648954860000,
+          "last_edited_time": 1648954920000,
+          "parent_id": "fadfcec3-b318-4a29-a7e6-3715d762c1ef",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "699c0d46-8f05-4ed9-b8af-4081491f71f8": {
+        "role": "reader",
+        "value": {
+          "id": "699c0d46-8f05-4ed9-b8af-4081491f71f8",
+          "version": 6,
+          "type": "text",
+          "created_time": 1648954920000,
+          "last_edited_time": 1648954920000,
+          "parent_id": "fadfcec3-b318-4a29-a7e6-3715d762c1ef",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "1be271c5-b37d-4ae7-85cf-3424d69f2e0a": {
+        "role": "reader",
+        "value": {
+          "id": "1be271c5-b37d-4ae7-85cf-3424d69f2e0a",
+          "version": 117,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "the motivation os using EIP712 is to enable offchain signing in order to reduce the number of transaction"
+              ]
+            ]
+          },
+          "created_time": 1648954920000,
+          "last_edited_time": 1648954920000,
+          "parent_id": "fadfcec3-b318-4a29-a7e6-3715d762c1ef",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "749154b0-b31e-4fb4-aabd-021fbe7790e6": {
+        "role": "reader",
+        "value": {
+          "id": "749154b0-b31e-4fb4-aabd-021fbe7790e6",
+          "version": 6,
+          "type": "text",
+          "created_time": 1648955040000,
+          "last_edited_time": 1648955040000,
+          "parent_id": "fadfcec3-b318-4a29-a7e6-3715d762c1ef",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "c5b036cd-5f6f-402e-bb61-1cab04a17e5c": {
+        "role": "reader",
+        "value": {
+          "id": "c5b036cd-5f6f-402e-bb61-1cab04a17e5c",
+          "version": 149,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "i think this should not be the focus of this article (it should be extended to another topic), let’s just focus on main logic here"
+              ]
+            ]
+          },
+          "created_time": 1648955040000,
+          "last_edited_time": 1648955100000,
+          "parent_id": "fadfcec3-b318-4a29-a7e6-3715d762c1ef",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "f7b5f939-ce61-419b-ad62-2f58387d4ee2": {
+        "role": "reader",
+        "value": {
+          "id": "f7b5f939-ce61-419b-ad62-2f58387d4ee2",
+          "version": 15,
+          "type": "divider",
+          "created_time": 1648955100000,
+          "last_edited_time": 1648955100000,
+          "parent_id": "fadfcec3-b318-4a29-a7e6-3715d762c1ef",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "30b20a1f-f109-432a-a4ea-1d99dd56a01f": {
+        "role": "reader",
+        "value": {
+          "id": "30b20a1f-f109-432a-a4ea-1d99dd56a01f",
+          "version": 45,
+          "type": "sub_header",
+          "properties": { "title": [["UniswapV2Pair", [["c"]]]] },
+          "created_time": 1648955111198,
+          "last_edited_time": 1648955880000,
+          "parent_id": "fadfcec3-b318-4a29-a7e6-3715d762c1ef",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "06a49976-91c0-49e6-bc3d-4ba6979f4a4a": {
+        "role": "reader",
+        "value": {
+          "id": "06a49976-91c0-49e6-bc3d-4ba6979f4a4a",
+          "version": 49,
+          "type": "text",
+          "properties": { "title": [["this is the real core of uniswap v2"]] },
+          "created_time": 1648955880000,
+          "last_edited_time": 1648955880000,
+          "parent_id": "fadfcec3-b318-4a29-a7e6-3715d762c1ef",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "cba0a4e1-b11e-4155-a90f-043e7f7ac70d": {
+        "role": "reader",
+        "value": {
+          "id": "cba0a4e1-b11e-4155-a90f-043e7f7ac70d",
+          "version": 15,
+          "type": "divider",
+          "created_time": 1648955880000,
+          "last_edited_time": 1648955880000,
+          "parent_id": "fadfcec3-b318-4a29-a7e6-3715d762c1ef",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "da9113bb-274c-41d7-b2e6-cb90c48b541e": {
+        "role": "reader",
+        "value": {
+          "id": "da9113bb-274c-41d7-b2e6-cb90c48b541e",
+          "version": 31,
+          "type": "sub_sub_header",
+          "properties": { "title": [["State variables"]] },
+          "created_time": 1648955916692,
+          "last_edited_time": 1648955880000,
+          "parent_id": "fadfcec3-b318-4a29-a7e6-3715d762c1ef",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "b824d5a2-d4a8-4c20-97fd-e15c03f3d502": {
+        "role": "reader",
+        "value": {
+          "id": "b824d5a2-d4a8-4c20-97fd-e15c03f3d502",
+          "version": 18,
+          "type": "code",
+          "properties": {
+            "title": [
+              [
+                "using SafeMath  for uint;\nusing UQ112x112 for uint224;\n\nuint public constant MINIMUM_LIQUIDITY = 10**3;\nbytes4 private constant SELECTOR = bytes4(keccak256(bytes('transfer(address,uint256)')));\n\naddress public factory;\naddress public token0;\naddress public token1;\n\nuint112 private reserve0;           // uses single storage slot, accessible via getReserves\nuint112 private reserve1;           // uses single storage slot, accessible via getReserves\nuint32  private blockTimestampLast; // uses single storage slot, accessible via getReserves\n\nuint public price0CumulativeLast;\nuint public price1CumulativeLast;\nuint public kLast; // reserve0 * reserve1, as of immediately after the most recent liquidity event\n\nuint private unlocked = 1;\nmodifier lock() {\n    require(unlocked == 1, 'UniswapV2: LOCKED');\n    unlocked = 0;\n    _;\n    unlocked = 1;\n}"
+              ]
+            ],
+            "language": [["Solidity"]]
+          },
+          "created_time": 1648955880000,
+          "last_edited_time": 1648956420000,
+          "parent_id": "fadfcec3-b318-4a29-a7e6-3715d762c1ef",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "3093996e-b108-4981-94c6-22684a23562a": {
+        "role": "reader",
+        "value": {
+          "id": "3093996e-b108-4981-94c6-22684a23562a",
+          "version": 263,
+          "type": "text",
+          "properties": {
+            "title": [
+              ["the most important variable is "],
+              ["reserve0", [["c"]]],
+              [" and "],
+              ["reserve1", [["c"]]],
+              [", as their product will be a constant "],
+              ["k", [["c"]]],
+              [" in order to keep the balance of "],
+              ["token0", [["c"]]],
+              [" and "],
+              ["token1", [["c"]]],
+              [" to be the same"]
+            ]
+          },
+          "created_time": 1648954860000,
+          "last_edited_time": 1648956000000,
+          "parent_id": "fadfcec3-b318-4a29-a7e6-3715d762c1ef",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "10815297-9c54-4a26-990e-bb7369856be4": {
+        "role": "reader",
+        "value": {
+          "id": "10815297-9c54-4a26-990e-bb7369856be4",
+          "version": 4,
+          "type": "text",
+          "created_time": 1648956120000,
+          "last_edited_time": 1648956120000,
+          "parent_id": "fadfcec3-b318-4a29-a7e6-3715d762c1ef",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "903a954e-ad0c-4396-b671-116a659e8f0d": {
+        "role": "reader",
+        "value": {
+          "id": "903a954e-ad0c-4396-b671-116a659e8f0d",
+          "version": 265,
+          "type": "text",
+          "properties": {
+            "title": [
+              ["you might wonder why "],
+              ["reserve", [["c"]]],
+              [" and "],
+              ["blockTimestampLast", [["c"]]],
+              [" uses weird "],
+              ["uint", [["c"]]],
+              [
+                ", i think this is just to pack them up into one word (32 bytes) in EVM storage so that it could be more storage efficient"
+              ]
+            ]
+          },
+          "created_time": 1648956000000,
+          "last_edited_time": 1648956120000,
+          "parent_id": "fadfcec3-b318-4a29-a7e6-3715d762c1ef",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "0a744c2d-1331-4959-b6da-dadbb4d0ff80": {
+        "role": "reader",
+        "value": {
+          "id": "0a744c2d-1331-4959-b6da-dadbb4d0ff80",
+          "version": 6,
+          "type": "text",
+          "created_time": 1648956120000,
+          "last_edited_time": 1648956120000,
+          "parent_id": "fadfcec3-b318-4a29-a7e6-3715d762c1ef",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "2dc82fce-6902-47d2-973e-11125adaa05f": {
+        "role": "reader",
+        "value": {
+          "id": "2dc82fce-6902-47d2-973e-11125adaa05f",
+          "version": 170,
+          "type": "text",
+          "properties": {
+            "title": [
+              ["and there is a "],
+              ["lock", [["c"]]],
+              [
+                " modifier to prevent reentrancy, all the critical state changing external function needs to be wrapped with that"
+              ]
+            ]
+          },
+          "created_time": 1648956120000,
+          "last_edited_time": 1648956180000,
+          "parent_id": "fadfcec3-b318-4a29-a7e6-3715d762c1ef",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "3ca701b8-ed00-46d5-baeb-e452ee333616": {
+        "role": "reader",
+        "value": {
+          "id": "3ca701b8-ed00-46d5-baeb-e452ee333616",
+          "version": 6,
+          "type": "text",
+          "created_time": 1648960260000,
+          "last_edited_time": 1648960260000,
+          "parent_id": "fadfcec3-b318-4a29-a7e6-3715d762c1ef",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "25679f24-bd5e-4fc9-b2e3-90ffcfa28666": {
+        "role": "reader",
+        "value": {
+          "id": "25679f24-bd5e-4fc9-b2e3-90ffcfa28666",
+          "version": 236,
+          "type": "text",
+          "properties": {
+            "title": [
+              ["after reading some code, the "],
+              ["kLast", [["c"]]],
+              [" here is only useful when the factory has set the "],
+              ["feeTo", [["c"]]],
+              [
+                " address (as it need to log down the actually k substracting the fee), otherwise it will be zero"
+              ]
+            ]
+          },
+          "created_time": 1648960260000,
+          "last_edited_time": 1648960320000,
+          "parent_id": "fadfcec3-b318-4a29-a7e6-3715d762c1ef",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "55f0c405-503e-4b35-8aec-2983f9be955f": {
+        "role": "reader",
+        "value": {
+          "id": "55f0c405-503e-4b35-8aec-2983f9be955f",
+          "version": 2,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "// if fee is on, mint liquidity equivalent to 1/6th of the growth in sqrt(k)\nfunction _mintFee(uint112 _reserve0, uint112 _reserve1) private returns (bool feeOn) {\naddress feeTo = IUniswapV2Factory(factory).feeTo();\nfeeOn = feeTo != address(0);\n// load the fee in memory\nuint _kLast = kLast; // gas savings\nif (feeOn) {\nif (_kLast != 0) {\n// square root of K\nuint rootK = Math.sqrt(uint(_reserve0).mul(_reserve1));\n// square root of kLast\nuint rootKLast = Math.sqrt(_kLast);\n// if the original k is greater than kLast\nif (rootK > rootKLast) {\n// this will mint the 1/6 of growth\nuint numerator = totalSupply.mul(rootK.sub(rootKLast));\nuint denominator = rootK.mul(5).add(rootKLast);\nuint liquidity = numerator / denominator;\nif (liquidity > 0) _mint(feeTo, liquidity);\n}\n}\n// this exclude the feeOn scenerio and sets kLast to 0\n} else if (_kLast != 0) {\nkLast = 0;\n}\n}"
+              ]
+            ]
+          },
+          "created_time": 1648960385512,
+          "last_edited_time": 1648960380000,
+          "parent_id": "fadfcec3-b318-4a29-a7e6-3715d762c1ef",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "bea85a31-9d24-48f5-bedf-f455eea5339a": {
+        "role": "reader",
+        "value": {
+          "id": "bea85a31-9d24-48f5-bedf-f455eea5339a",
+          "version": 12,
+          "type": "divider",
+          "created_time": 1648956180000,
+          "last_edited_time": 1648956180000,
+          "parent_id": "fadfcec3-b318-4a29-a7e6-3715d762c1ef",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "1fd426dd-3195-469e-beec-172dbeac3b0f": {
+        "role": "reader",
+        "value": {
+          "id": "1fd426dd-3195-469e-beec-172dbeac3b0f",
+          "version": 43,
+          "type": "sub_sub_header",
+          "properties": { "title": [["Trivial functions and events"]] },
+          "created_time": 1648956186161,
+          "last_edited_time": 1648956300000,
+          "parent_id": "fadfcec3-b318-4a29-a7e6-3715d762c1ef",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "f6c4f5be-38bb-40cc-a3ce-de22fb13998c": {
+        "role": "reader",
+        "value": {
+          "id": "f6c4f5be-38bb-40cc-a3ce-de22fb13998c",
+          "version": 34,
+          "type": "code",
+          "properties": {
+            "title": [
+              [
+                "function _safeTransfer(address token, address to, uint value) private {\n    // token transfer only returns a bool, which might not revert when fail\n    // so safeTransfer make sure it is definitely reverted\n    (bool success, bytes memory data) = token.call(abi.encodeWithSelector(SELECTOR, to, value));\n    require(success && (data.length == 0 || abi.decode(data, (bool))), 'UniswapV2: TRANSFER_FAILED');\n}\n\nevent Mint(address indexed sender, uint amount0, uint amount1);\nevent Burn(address indexed sender, uint amount0, uint amount1, address indexed to);\nevent Swap(\n    address indexed sender,\n    uint amount0In,\n    uint amount1In,\n    uint amount0Out,\n    uint amount1Out,\n    address indexed to\n);\nevent Sync(uint112 reserve0, uint112 reserve1);"
+              ]
+            ],
+            "language": [["Solidity"]]
+          },
+          "created_time": 1648956300000,
+          "last_edited_time": 1648956420000,
+          "parent_id": "fadfcec3-b318-4a29-a7e6-3715d762c1ef",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "b02cea65-05cf-4dda-a0df-bfa532b54798": {
+        "role": "reader",
+        "value": {
+          "id": "b02cea65-05cf-4dda-a0df-bfa532b54798",
+          "version": 13,
+          "type": "divider",
+          "created_time": 1648956120000,
+          "last_edited_time": 1648959720000,
+          "parent_id": "fadfcec3-b318-4a29-a7e6-3715d762c1ef",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "398aa86f-ae4f-481b-8249-b6e7b72fc2a2": {
+        "role": "reader",
+        "value": {
+          "id": "398aa86f-ae4f-481b-8249-b6e7b72fc2a2",
+          "version": 64,
+          "type": "sub_sub_header",
+          "properties": { "title": [["Constructor and "], ["initialize", [["c"]]]] },
+          "created_time": 1648959727254,
+          "last_edited_time": 1648959780000,
+          "parent_id": "fadfcec3-b318-4a29-a7e6-3715d762c1ef",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "01fd27fb-33e8-4398-ab9a-15f08a6be10d": {
+        "role": "reader",
+        "value": {
+          "id": "01fd27fb-33e8-4398-ab9a-15f08a6be10d",
+          "version": 13,
+          "type": "code",
+          "properties": {
+            "title": [
+              [
+                "constructor() public {\n    factory = msg.sender;\n}\n\n// called once by the factory at time of deployment\nfunction initialize(address _token0, address _token1) external {\n    require(msg.sender == factory, 'UniswapV2: FORBIDDEN'); // sufficient check\n    token0 = _token0;\n    token1 = _token1;\n}"
+              ]
+            ],
+            "language": [["Solidity"]]
+          },
+          "created_time": 1648959720000,
+          "last_edited_time": 1648959720000,
+          "parent_id": "fadfcec3-b318-4a29-a7e6-3715d762c1ef",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "10d6eafb-0f27-4629-a145-885fbc87df4b": {
+        "role": "reader",
+        "value": {
+          "id": "10d6eafb-0f27-4629-a145-885fbc87df4b",
+          "version": 197,
+          "type": "text",
+          "properties": {
+            "title": [
+              ["this will just called by the factory and "],
+              ["initilaize", [["c"]]],
+              [" limit the sender should only be the "],
+              ["factory", [["c"]]]
+            ]
+          },
+          "created_time": 1648959720000,
+          "last_edited_time": 1648959780000,
+          "parent_id": "fadfcec3-b318-4a29-a7e6-3715d762c1ef",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "4ffc64fa-91cd-45d1-9e85-60db2b7c8cdf": {
+        "role": "reader",
+        "value": {
+          "id": "4ffc64fa-91cd-45d1-9e85-60db2b7c8cdf",
+          "version": 12,
+          "type": "divider",
+          "created_time": 1648959780000,
+          "last_edited_time": 1648959780000,
+          "parent_id": "fadfcec3-b318-4a29-a7e6-3715d762c1ef",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "3a159452-805c-4856-9be4-4fc24c333265": {
+        "role": "reader",
+        "value": {
+          "id": "3a159452-805c-4856-9be4-4fc24c333265",
+          "version": 38,
+          "type": "sub_sub_header",
+          "properties": { "title": [["Common but trivial function"]] },
+          "created_time": 1648959820535,
+          "last_edited_time": 1648959840000,
+          "parent_id": "fadfcec3-b318-4a29-a7e6-3715d762c1ef",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "1f22bc57-72ec-4eaa-a976-4940608a88ad": {
+        "role": "reader",
+        "value": {
+          "id": "1f22bc57-72ec-4eaa-a976-4940608a88ad",
+          "version": 37,
+          "type": "code",
+          "properties": {
+            "title": [
+              [
+                "// update reserves and, on the first call per block, price accumulators\nfunction _update(uint balance0, uint balance1, uint112 _reserve0, uint112 _reserve1) private {\n    require(balance0 <= uint112(-1) && balance1 <= uint112(-1), 'UniswapV2: OVERFLOW');\n    uint32 blockTimestamp = uint32(block.timestamp % 2**32);\n    uint32 timeElapsed = blockTimestamp - blockTimestampLast; // overflow is desired\n    // calculate the last price\n    // this price will be overflowed\n    if (timeElapsed > 0 && _reserve0 != 0 && _reserve1 != 0) {\n        // * never overflows, and + overflow is desired\n        // ratio of token1/token0, used for oracle\n        price0CumulativeLast += uint(UQ112x112.encode(_reserve1).uqdiv(_reserve0)) * timeElapsed;\n        // ratio of token1/token0\n        price1CumulativeLast += uint(UQ112x112.encode(_reserve0).uqdiv(_reserve1)) * timeElapsed;\n    }\n    // state changing\n    reserve0 = uint112(balance0);\n    reserve1 = uint112(balance1);\n    blockTimestampLast = blockTimestamp;\n    emit Sync(reserve0, reserve1);\n}\n\n// if fee is on, mint liquidity equivalent to 1/6th of the growth in sqrt(k)\nfunction _mintFee(uint112 _reserve0, uint112 _reserve1) private returns (bool feeOn) {\n    address feeTo = IUniswapV2Factory(factory).feeTo();\n    feeOn = feeTo != address(0);\n    // load the fee in memory\n    uint _kLast = kLast; // gas savings\n    if (feeOn) {\n        if (_kLast != 0) {\n            uint rootK = Math.sqrt(uint(_reserve0).mul(_reserve1));\n            uint rootKLast = Math.sqrt(_kLast);\n            if (rootK > rootKLast) {\n                uint numerator = totalSupply.mul(rootK.sub(rootKLast));\n                uint denominator = rootK.mul(5).add(rootKLast);\n                uint liquidity = numerator / denominator;\n                if (liquidity > 0) _mint(feeTo, liquidity);\n            }\n        }\n    } else if (_kLast != 0) {\n        kLast = 0;\n    }\n}"
+              ]
+            ],
+            "language": [["Solidity"]]
+          },
+          "created_time": 1648959840000,
+          "last_edited_time": 1648960380000,
+          "parent_id": "fadfcec3-b318-4a29-a7e6-3715d762c1ef",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "4724ccac-2cc2-48fd-bf7f-3829c62a1be8": {
+        "role": "reader",
+        "value": {
+          "id": "4724ccac-2cc2-48fd-bf7f-3829c62a1be8",
+          "version": 110,
+          "type": "text",
+          "properties": {
+            "title": [
+              ["_update", [["c"]]],
+              [" is responsible for updating the state such as "],
+              ["reserve", [["c"]]],
+              [" and "],
+              ["priceCumulativeLast", [["c"]]]
+            ]
+          },
+          "created_time": 1648959780000,
+          "last_edited_time": 1648959900000,
+          "parent_id": "fadfcec3-b318-4a29-a7e6-3715d762c1ef",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "fc033114-99a9-4d92-9caa-abe00d5eeb4c": {
+        "role": "reader",
+        "value": {
+          "id": "fc033114-99a9-4d92-9caa-abe00d5eeb4c",
+          "version": 4,
+          "type": "text",
+          "created_time": 1648959900000,
+          "last_edited_time": 1648959900000,
+          "parent_id": "fadfcec3-b318-4a29-a7e6-3715d762c1ef",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "7d922b01-3318-4a34-adbb-296f57731848": {
+        "role": "reader",
+        "value": {
+          "id": "7d922b01-3318-4a34-adbb-296f57731848",
+          "version": 83,
+          "type": "text",
+          "properties": {
+            "title": [["_mintFee", [["c"]]], [" will mint the fee of lp token set by the factory"]]
+          },
+          "created_time": 1648959900000,
+          "last_edited_time": 1648959960000,
+          "parent_id": "fadfcec3-b318-4a29-a7e6-3715d762c1ef",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "2b08e9bf-53a7-441d-b116-a9fdeea4e39c": {
+        "role": "reader",
+        "value": {
+          "id": "2b08e9bf-53a7-441d-b116-a9fdeea4e39c",
+          "version": 12,
+          "type": "divider",
+          "created_time": 1648960380000,
+          "last_edited_time": 1648960980000,
+          "parent_id": "fadfcec3-b318-4a29-a7e6-3715d762c1ef",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "fb0fa050-7d46-460e-9eca-83fddaaf83a3": {
+        "role": "reader",
+        "value": {
+          "id": "fb0fa050-7d46-460e-9eca-83fddaaf83a3",
+          "version": 19,
+          "type": "sub_sub_header",
+          "properties": { "title": [["mint", [["c"]]]] },
+          "created_time": 1648961024594,
+          "last_edited_time": 1648960980000,
+          "parent_id": "fadfcec3-b318-4a29-a7e6-3715d762c1ef",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "3e4a3945-2d63-40a4-a7c4-1540c26bc2ea": {
+        "role": "reader",
+        "value": {
+          "id": "3e4a3945-2d63-40a4-a7c4-1540c26bc2ea",
+          "version": 15,
+          "type": "code",
+          "properties": {
+            "title": [
+              [
+                "// this low-level function should be called from a contract which performs important safety checks\n// this function will be called when addLiquidity is invoked\nfunction mint(address to) external lock returns (uint liquidity) {\n    (uint112 _reserve0, uint112 _reserve1,) = getReserves(); // gas savings\n    // router should already tranfer the tokens to the lp\n    // i think if you don't use the router,\n    // if you directly send the token without minting in the same block\n    // your lp token will be sent to the next minter\n    uint balance0 = IERC20(token0).balanceOf(address(this));\n    uint balance1 = IERC20(token1).balanceOf(address(this));\n    // these are the real amount supplied by user\n    // as they might be substracted by fee on transfer\n    uint amount0 = balance0.sub(_reserve0);\n    uint amount1 = balance1.sub(_reserve1);\n\n    // mint the fee if feeTo in the factory is set\n    bool feeOn = _mintFee(_reserve0, _reserve1);\n    uint _totalSupply = totalSupply; // gas savings, must be defined here since totalSupply can update in _mintFee\n    if (_totalSupply == 0) {\n        // initial liquidity will be sqrt of amount0 * amount1\n        liquidity = Math.sqrt(amount0.mul(amount1)).sub(MINIMUM_LIQUIDITY);\n        // function in ERC20 and it will lock the minimum liquidity\n        _mint(address(0), MINIMUM_LIQUIDITY); // permanently lock the first MINIMUM_LIQUIDITY tokens\n    } else {\n        // amount0/reserve0 * totalSupply should be the same with amount1/reserve1 * totalSupply\n        // but some tokens might have fee on transfer, so need to use the min function\n        liquidity = Math.min(amount0.mul(_totalSupply) / _reserve0, amount1.mul(_totalSupply) / _reserve1);\n    }\n    require(liquidity > 0, 'UniswapV2: INSUFFICIENT_LIQUIDITY_MINTED');\n    // calling erc20 to mint the liquidity\n    _mint(to, liquidity);\n    // update on trivial values\n    _update(balance0, balance1, _reserve0, _reserve1);\n    if (feeOn) kLast = uint(reserve0).mul(reserve1); // reserve0 and reserve1 are up-to-date\n    emit Mint(msg.sender, amount0, amount1);\n}"
+              ]
+            ],
+            "language": [["Solidity"]]
+          },
+          "created_time": 1648960980000,
+          "last_edited_time": 1648960980000,
+          "parent_id": "fadfcec3-b318-4a29-a7e6-3715d762c1ef",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "c7fb7241-0636-4a0e-95ec-2f6bc814619d": {
+        "role": "reader",
+        "value": {
+          "id": "c7fb7241-0636-4a0e-95ec-2f6bc814619d",
+          "version": 48,
+          "type": "text",
+          "properties": { "title": [["this is the core logic of contract minting"]] },
+          "created_time": 1648960980000,
+          "last_edited_time": 1648961040000,
+          "parent_id": "fadfcec3-b318-4a29-a7e6-3715d762c1ef",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "68333387-0b8e-4018-9a3a-663fe8636226": {
+        "role": "reader",
+        "value": {
+          "id": "68333387-0b8e-4018-9a3a-663fe8636226",
+          "version": 6,
+          "type": "text",
+          "created_time": 1648961100000,
+          "last_edited_time": 1648961100000,
+          "parent_id": "fadfcec3-b318-4a29-a7e6-3715d762c1ef",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "0ef0cc0f-543c-40de-9b6d-774ff3642f5a": {
+        "role": "reader",
+        "value": {
+          "id": "0ef0cc0f-543c-40de-9b6d-774ff3642f5a",
+          "version": 335,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "i think one problem with this logic is that if the user directly sent their token to the lp pair contract without minting the lp token at the same time, their IOU might go to the next user who used to router, so that’s why we should never directly interact with lp token contract"
+              ]
+            ]
+          },
+          "created_time": 1648961100000,
+          "last_edited_time": 1648961220000,
+          "parent_id": "fadfcec3-b318-4a29-a7e6-3715d762c1ef",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "4a17a4ed-3921-40dc-9646-30e33a993288": {
+        "role": "reader",
+        "value": {
+          "id": "4a17a4ed-3921-40dc-9646-30e33a993288",
+          "version": 12,
+          "type": "divider",
+          "created_time": 1648961040000,
+          "last_edited_time": 1648961040000,
+          "parent_id": "fadfcec3-b318-4a29-a7e6-3715d762c1ef",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "e90d235f-f4e1-4c47-bace-5735946e146b": {
+        "role": "reader",
+        "value": {
+          "id": "e90d235f-f4e1-4c47-bace-5735946e146b",
+          "version": 18,
+          "type": "sub_sub_header",
+          "properties": { "title": [["burn", [["c"]]]] },
+          "created_time": 1648961361993,
+          "last_edited_time": 1648961340000,
+          "parent_id": "fadfcec3-b318-4a29-a7e6-3715d762c1ef",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "26c8e899-73cb-4027-9f35-16d0ad359d5d": {
+        "role": "reader",
+        "value": {
+          "id": "26c8e899-73cb-4027-9f35-16d0ad359d5d",
+          "version": 14,
+          "type": "code",
+          "properties": {
+            "title": [
+              [
+                "// this low-level function should be called from a contract which performs important safety checks\nfunction burn(address to) external lock returns (uint amount0, uint amount1) {\n    (uint112 _reserve0, uint112 _reserve1,) = getReserves(); // gas savings\n    address _token0 = token0;                                // gas savings\n    address _token1 = token1;                                // gas savings\n    // get the balance and the lp token balance\n    uint balance0 = IERC20(_token0).balanceOf(address(this));\n    uint balance1 = IERC20(_token1).balanceOf(address(this));\n    // the lp token is sent to the address directly before\n    uint liquidity = balanceOf[address(this)];\n\n    bool feeOn = _mintFee(_reserve0, _reserve1);\n    uint _totalSupply = totalSupply; // gas savings, must be defined here since totalSupply can update in _mintFee\n    // calculate how much amount is in the lp token\n    // not that here didn't use reserve because the transfer might have fee\n    amount0 = liquidity.mul(balance0) / _totalSupply; // using balances ensures pro-rata distribution\n    amount1 = liquidity.mul(balance1) / _totalSupply; // using balances ensures pro-rata distribution\n    require(amount0 > 0 && amount1 > 0, 'UniswapV2: INSUFFICIENT_LIQUIDITY_BURNED');\n    // handle the burn and transfer\n    _burn(address(this), liquidity);\n    _safeTransfer(_token0, to, amount0);\n    _safeTransfer(_token1, to, amount1);\n    balance0 = IERC20(_token0).balanceOf(address(this));\n    balance1 = IERC20(_token1).balanceOf(address(this));\n\n    _update(balance0, balance1, _reserve0, _reserve1);\n    if (feeOn) kLast = uint(reserve0).mul(reserve1); // reserve0 and reserve1 are up-to-date\n    emit Burn(msg.sender, amount0, amount1, to);\n}"
+              ]
+            ],
+            "language": [["Solidity"]]
+          },
+          "created_time": 1648961060071,
+          "last_edited_time": 1648961340000,
+          "parent_id": "fadfcec3-b318-4a29-a7e6-3715d762c1ef",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "b0ccaacd-92ff-4ff8-b173-5c32b5a647a8": {
+        "role": "reader",
+        "value": {
+          "id": "b0ccaacd-92ff-4ff8-b173-5c32b5a647a8",
+          "version": 20,
+          "type": "sub_sub_header",
+          "properties": { "title": [["swap", [["c"]]], [" "]] },
+          "created_time": 1648961340000,
+          "last_edited_time": 1648961400000,
+          "parent_id": "fadfcec3-b318-4a29-a7e6-3715d762c1ef",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "f202effb-19f5-4442-b6ff-9742f0bcf648": {
+        "role": "reader",
+        "value": {
+          "id": "f202effb-19f5-4442-b6ff-9742f0bcf648",
+          "version": 14,
+          "type": "code",
+          "properties": {
+            "title": [
+              [
+                "// this low-level function should be called from a contract which performs important safety checks\nfunction swap(uint amount0Out, uint amount1Out, address to, bytes calldata data) external lock {\n    // reverts when the condition not right\n    require(amount0Out > 0 || amount1Out > 0, 'UniswapV2: INSUFFICIENT_OUTPUT_AMOUNT');\n    (uint112 _reserve0, uint112 _reserve1,) = getReserves(); // gas savings\n    require(amount0Out < _reserve0 && amount1Out < _reserve1, 'UniswapV2: INSUFFICIENT_LIQUIDITY');\n\n    uint balance0;\n    uint balance1;\n    { // scope for _token{0,1}, avoids stack too deep errors\n    address _token0 = token0;\n    address _token1 = token1;\n    require(to != _token0 && to != _token1, 'UniswapV2: INVALID_TO');\n\n    // i think this might save gas to be optimistic\n    if (amount0Out > 0) _safeTransfer(_token0, to, amount0Out); // optimistically transfer tokens\n    if (amount1Out > 0) _safeTransfer(_token1, to, amount1Out); // optimistically transfer tokens\n    if (data.length > 0) IUniswapV2Callee(to).uniswapV2Call(msg.sender, amount0Out, amount1Out, data);\n\n    // save the balance to the memory variable after optimistically transfer\n    // so it should be less the before, so that we could check what is the user input amount\n    balance0 = IERC20(_token0).balanceOf(address(this));\n    balance1 = IERC20(_token1).balanceOf(address(this));\n    }\n    // calculate the amount input based on reserve - amountOut\n    uint amount0In = balance0 > _reserve0 - amount0Out ? balance0 - (_reserve0 - amount0Out) : 0;\n    uint amount1In = balance1 > _reserve1 - amount1Out ? balance1 - (_reserve1 - amount1Out) : 0;\n    // make sure the router did transfer token to the lp\n    require(amount0In > 0 || amount1In > 0, 'UniswapV2: INSUFFICIENT_INPUT_AMOUNT');\n    { // scope for reserve{0,1}Adjusted, avoids stack too deep errors\n\n    // substract the 0.03% fee to the lp provider\n    uint balance0Adjusted = balance0.mul(1000).sub(amount0In.mul(3));\n    uint balance1Adjusted = balance1.mul(1000).sub(amount1In.mul(3));\n    // make sure the amount input satisfy the condition of K\n    // check the condition of K is satified at the end\n    require(balance0Adjusted.mul(balance1Adjusted) >= uint(_reserve0).mul(_reserve1).mul(1000**2), 'UniswapV2: K');\n    }\n\n    _update(balance0, balance1, _reserve0, _reserve1);\n    emit Swap(msg.sender, amount0In, amount1In, amount0Out, amount1Out, to);\n}"
+              ]
+            ],
+            "language": [["Solidity"]]
+          },
+          "created_time": 1648961400000,
+          "last_edited_time": 1648961880000,
+          "parent_id": "fadfcec3-b318-4a29-a7e6-3715d762c1ef",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "8a8c6143-8715-440f-9ee7-a882b7916580": {
+        "role": "reader",
+        "value": {
+          "id": "8a8c6143-8715-440f-9ee7-a882b7916580",
+          "version": 52,
+          "type": "text",
+          "properties": { "title": [["last core function of the lp, that is swapping"]] },
+          "created_time": 1648961880000,
+          "last_edited_time": 1648961940000,
+          "parent_id": "fadfcec3-b318-4a29-a7e6-3715d762c1ef",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "b5f7cbf8-1eeb-4ea2-b5e8-784b9b0bb64a": {
+        "role": "reader",
+        "value": {
+          "id": "b5f7cbf8-1eeb-4ea2-b5e8-784b9b0bb64a",
+          "version": 11,
+          "type": "divider",
+          "created_time": 1648961940000,
+          "last_edited_time": 1648961940000,
+          "parent_id": "fadfcec3-b318-4a29-a7e6-3715d762c1ef",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "c5f93d79-e539-4b77-b34d-4039ff65cabf": {
+        "role": "reader",
+        "value": {
+          "id": "c5f93d79-e539-4b77-b34d-4039ff65cabf",
+          "version": 47,
+          "type": "sub_sub_header",
+          "properties": { "title": [["Make sure the state is up-to-date"]] },
+          "created_time": 1648961978966,
+          "last_edited_time": 1648961940000,
+          "parent_id": "fadfcec3-b318-4a29-a7e6-3715d762c1ef",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "7ac900a1-f3f9-4a28-afd9-a21e4890b3a1": {
+        "role": "reader",
+        "value": {
+          "id": "7ac900a1-f3f9-4a28-afd9-a21e4890b3a1",
+          "version": 15,
+          "type": "code",
+          "properties": {
+            "title": [
+              [
+                "// force balances to match reserves\nfunction skim(address to) external lock {\n    address _token0 = token0; // gas savings\n    address _token1 = token1; // gas savings\n    _safeTransfer(_token0, to, IERC20(_token0).balanceOf(address(this)).sub(reserve0));\n    _safeTransfer(_token1, to, IERC20(_token1).balanceOf(address(this)).sub(reserve1));\n}\n\n// force reserves to match balances\nfunction sync() external lock {\n    _update(IERC20(token0).balanceOf(address(this)), IERC20(token1).balanceOf(address(this)), reserve0, reserve1);\n}"
+              ]
+            ],
+            "language": [["Solidity"]]
+          },
+          "created_time": 1648961940000,
+          "last_edited_time": 1648962000000,
+          "parent_id": "fadfcec3-b318-4a29-a7e6-3715d762c1ef",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "b5763da5-7cee-42f1-9bc7-2eae5baf7b76": {
+        "role": "reader",
+        "value": {
+          "id": "b5763da5-7cee-42f1-9bc7-2eae5baf7b76",
+          "version": 240,
+          "type": "text",
+          "properties": {
+            "title": [
+              ["anyone can make a profit here if they find out the "],
+              ["balance", [["c"]]],
+              [" is more than "],
+              ["reserve", [["c"]]]
+            ]
+          },
+          "created_time": 1648962000000,
+          "last_edited_time": 1648962060000,
+          "parent_id": "fadfcec3-b318-4a29-a7e6-3715d762c1ef",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "dc0951d6-5ef4-4ebb-932c-757c105c370f": {
+        "role": "reader",
+        "value": {
+          "id": "dc0951d6-5ef4-4ebb-932c-757c105c370f",
+          "version": 4,
+          "type": "text",
+          "created_time": 1648962120000,
+          "last_edited_time": 1648962120000,
+          "parent_id": "fadfcec3-b318-4a29-a7e6-3715d762c1ef",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "5efbd5f9-1f28-428d-9f6d-e6f8e330f1fb": {
+        "role": "reader",
+        "value": {
+          "id": "5efbd5f9-1f28-428d-9f6d-e6f8e330f1fb",
+          "version": 179,
+          "type": "text",
+          "properties": {
+            "title": [
+              [
+                "i remember sam wrote an article about someone accidentally transfer the token to the lp, so he discover that anyone could call this "
+              ],
+              ["skim", [["c"]]],
+              [" function to get back the token, but unfortunately it is front run by someone else"]
+            ]
+          },
+          "created_time": 1648962000000,
+          "last_edited_time": 1648962120000,
+          "parent_id": "fadfcec3-b318-4a29-a7e6-3715d762c1ef",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "a39652f6-5ce1-4b79-bf57-845d86ed8b9b": {
+        "role": "reader",
+        "value": {
+          "id": "a39652f6-5ce1-4b79-bf57-845d86ed8b9b",
+          "version": 3,
+          "type": "text",
+          "created_time": 1648962180000,
+          "last_edited_time": 1648962180000,
+          "parent_id": "fadfcec3-b318-4a29-a7e6-3715d762c1ef",
+          "parent_table": "block",
+          "alive": true,
+          "created_by_table": "notion_user",
+          "created_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "last_edited_by_table": "notion_user",
+          "last_edited_by_id": "06d19bad-3e46-4f88-a82f-6e42f5b09136",
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      }
+    },
+    "collection": {
+      "85cf5c11-0761-4d79-a0c1-ca451828c97d": {
+        "role": "reader",
+        "value": {
+          "id": "85cf5c11-0761-4d79-a0c1-ca451828c97d",
+          "version": 512,
+          "name": [["fluidfeed"]],
+          "description": [["turns what i’ve learnt about dev in words"]],
+          "schema": {
+            "TO}@": { "name": "Published", "type": "checkbox" },
+            "XWe}": {
+              "name": "Tags",
+              "type": "multi_select",
+              "options": [
+                { "id": "d48c017d-a01f-4942-8952-835db2cf37b8", "color": "red", "value": "react" },
+                {
+                  "id": "29a47e92-0c83-4f5b-9f65-89f65f2e2f41",
+                  "color": "default",
+                  "value": "css"
+                },
+                {
+                  "id": "00b1969f-d76f-4039-a2b8-ed601c3a19c6",
+                  "color": "pink",
+                  "value": "graphql"
+                },
+                { "id": "f1196884-eece-4607-8c13-e3ca03c59278", "color": "gray", "value": "web3" },
+                {
+                  "id": "4f081ed0-ce57-47b0-a957-5cc31036b690",
+                  "color": "gray",
+                  "value": "mikroorm"
+                },
+                { "id": "9ae43dad-110e-4379-8b6c-20f37115ee38", "color": "blue", "value": "wip" },
+                {
+                  "id": "91dfb9a2-3721-4999-8d0f-b8d6e78545fb",
+                  "color": "brown",
+                  "value": "express"
+                },
+                { "id": "18a8185a-761b-4d27-8b2c-3150721e9ee3", "color": "green", "value": "auth" },
+                {
+                  "id": "c3d9caae-c3dd-4361-8439-4c1eef1a84de",
+                  "color": "yellow",
+                  "value": "design pattern"
+                },
+                {
+                  "id": "6252b243-1ab9-4690-a9ca-f530158f33d2",
+                  "color": "purple",
+                  "value": "notion"
+                },
+                {
+                  "id": "c68b6f92-f79b-422e-8586-1add9afa3fee",
+                  "color": "orange",
+                  "value": "nextjs"
+                },
+                { "id": "1e86d7c8-256d-42d4-b6ea-36b4335d65fd", "color": "brown", "value": "meta" },
+                {
+                  "id": "d5189e66-e4a2-4bef-9d4f-fbdc5697168f",
+                  "color": "green",
+                  "value": "cryptography"
+                },
+                { "id": "d0384436-6530-41b2-a911-ad41db53d6cb", "color": "red", "value": "health" },
+                {
+                  "id": "7cf8f5d7-aa0f-4208-8f4c-d6bcb3957173",
+                  "color": "green",
+                  "value": "hyperpop"
+                },
+                { "id": "d0b570be-d665-4949-8649-f324e223fd63", "color": "red", "value": "music" },
+                {
+                  "id": "bae6459c-d5be-447d-9475-f10ba8bfeb35",
+                  "color": "orange",
+                  "value": "thoughts"
+                },
+                {
+                  "id": "71785c59-13de-456c-afd6-4e71f042db87",
+                  "color": "yellow",
+                  "value": "javascript"
+                },
+                {
+                  "id": "5db7bacd-bdaf-4940-a175-04bd80eab0f1",
+                  "color": "yellow",
+                  "value": "study"
+                },
+                {
+                  "id": "8f77041b-9c93-46d5-a4b9-bbc2f9ab6ba1",
+                  "color": "orange",
+                  "value": "study notes"
+                },
+                {
+                  "id": "d6a6e430-6ed3-46c7-99f5-18510c479d36",
+                  "color": "purple",
+                  "value": "defi"
+                },
+                {
+                  "id": "40772960-3f7d-495d-8425-3aaeb4f52873",
+                  "color": "gray",
+                  "value": "solidity"
+                }
+              ]
+            },
+            "ePJl": { "name": "Updated", "type": "last_edited_time" },
+            "qqlW": { "name": "Created", "type": "created_time" },
+            "~?dF": {
+              "name": "Slug",
+              "type": "formula",
+              "formula": {
+                "args": [
+                  {
+                    "args": [
+                      { "name": "id", "type": "function", "result_type": "text" },
+                      {
+                        "type": "constant",
+                        "value": "-",
+                        "value_type": "string",
+                        "result_type": "text"
+                      }
+                    ],
+                    "name": "add",
+                    "type": "operator",
+                    "operator": "+",
+                    "result_type": "text"
+                  },
+                  {
+                    "args": [
+                      { "id": "title", "name": "Name", "type": "property", "result_type": "text" },
+                      {
+                        "type": "constant",
+                        "value": "\\W+",
+                        "value_type": "string",
+                        "result_type": "text"
+                      },
+                      {
+                        "type": "constant",
+                        "value": "-",
+                        "value_type": "string",
+                        "result_type": "text"
+                      }
+                    ],
+                    "name": "replaceAll",
+                    "type": "function",
+                    "result_type": "text"
+                  }
+                ],
+                "name": "add",
+                "type": "operator",
+                "operator": "+",
+                "result_type": "text"
+              }
+            },
+            "title": { "name": "Title", "type": "title" }
+          },
+          "icon": "😬",
+          "format": { "collection_page_properties": [{ "visible": true, "property": "XWe}" }] },
+          "parent_id": "e17d56ae-9ee0-45a9-bf07-c57e39f29d3b",
+          "parent_table": "block",
+          "alive": true,
+          "migrated": true,
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6",
+          "deleted_schema": {
+            "hRWZ": { "name": "Title", "type": "text" },
+            "w^dv": {
+              "name": "ID",
+              "type": "formula",
+              "formula": { "name": "id", "type": "function", "result_type": "text" }
+            }
+          }
+        }
+      }
+    },
+    "space": {},
+    "collection_view": {
+      "980d8e69-776b-4151-a4f3-118c8192bfec": {
+        "role": "reader",
+        "value": {
+          "id": "980d8e69-776b-4151-a4f3-118c8192bfec",
+          "version": 18,
+          "type": "list",
+          "name": "Published",
+          "format": {
+            "list_properties": [
+              { "visible": true, "property": "XWe}" },
+              { "visible": true, "property": "qqlW" },
+              { "visible": false, "property": "ePJl" }
+            ],
+            "property_filters": [
+              {
+                "id": "843bca59-f738-4414-a7ec-bd8d511c7a6e",
+                "filter": {
+                  "filter": {
+                    "value": { "type": "exact", "value": true },
+                    "operator": "checkbox_is"
+                  },
+                  "property": "TO}@"
+                }
+              }
+            ]
+          },
+          "parent_id": "e17d56ae-9ee0-45a9-bf07-c57e39f29d3b",
+          "parent_table": "block",
+          "alive": true,
+          "page_sort": [
+            "c7d444f8-0781-45eb-a075-57a2dcbce816",
+            "91b9d5aa-4423-45dc-ad09-6b4e21764aa3",
+            "4ec10aae-7f03-469f-9733-206063924279",
+            "308646b5-a9d3-46c3-95c9-b39ac1d46be9",
+            "eb10527b-87b7-4bb4-b881-73a739b356b1",
+            "57d52bd1-53c1-4749-8c0e-1bf44856feb9",
+            "1593a4a1-f9b4-4436-b5a5-716985e26914",
+            "cd2963ee-d0d9-4890-9bc8-c22d4ba2890c"
+          ],
+          "query2": { "sort": [{ "property": "ePJl", "direction": "descending" }] },
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "50ebfde9-8d32-4009-8ff9-85e0208616c7": {
+        "role": "reader",
+        "value": {
+          "id": "50ebfde9-8d32-4009-8ff9-85e0208616c7",
+          "version": 9,
+          "type": "table",
+          "name": "Unpublished",
+          "format": {
+            "property_filters": [
+              {
+                "id": "ca0acc9f-9d5d-46e6-a2b5-f4de4090c400",
+                "filter": {
+                  "filter": {
+                    "value": { "type": "exact", "value": false },
+                    "operator": "checkbox_is"
+                  },
+                  "property": "TO}@"
+                }
+              }
+            ],
+            "table_properties": [
+              { "width": 280, "visible": true, "property": "title" },
+              { "width": 56, "visible": true, "property": "TO}@" },
+              { "width": 200, "visible": true, "property": "~?dF" },
+              { "width": 200, "visible": true, "property": "XWe}" },
+              { "width": 200, "visible": true, "property": "qqlW" },
+              { "width": 200, "visible": true, "property": "ePJl" }
+            ]
+          },
+          "parent_id": "e17d56ae-9ee0-45a9-bf07-c57e39f29d3b",
+          "parent_table": "block",
+          "alive": true,
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      },
+      "69d73ac0-982e-4b69-a0ee-f4fe615f6b54": {
+        "role": "reader",
+        "value": {
+          "id": "69d73ac0-982e-4b69-a0ee-f4fe615f6b54",
+          "version": 33,
+          "type": "table",
+          "format": {
+            "table_wrap": true,
+            "table_properties": [
+              { "width": 276, "visible": true, "property": "title" },
+              { "width": 72, "visible": true, "property": "TO}@" },
+              { "width": 200, "visible": true, "property": "~?dF" },
+              { "width": 200, "visible": true, "property": "XWe}" },
+              { "width": 200, "visible": true, "property": "qqlW" },
+              { "width": 200, "visible": true, "property": "ePJl" }
+            ],
+            "collection_pointer": {
+              "id": "85cf5c11-0761-4d79-a0c1-ca451828c97d",
+              "table": "collection",
+              "spaceId": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+            }
+          },
+          "parent_id": "e17d56ae-9ee0-45a9-bf07-c57e39f29d3b",
+          "parent_table": "block",
+          "alive": true,
+          "page_sort": [
+            "2eb00b78-51f0-4f6a-a9e7-71729f36a068",
+            "a90ae9f7-8964-432d-9f97-db65709d527f",
+            "927e2c5e-4b1a-4f97-9a49-48f35ae857bf",
+            "8cde0f35-e8b4-4500-bf08-4c6e72276f0c",
+            "1593a4a1-f9b4-4436-b5a5-716985e26914",
+            "6e93d44a-3d44-4f4f-948a-b52835214b86",
+            "c7d444f8-0781-45eb-a075-57a2dcbce816",
+            "91b9d5aa-4423-45dc-ad09-6b4e21764aa3",
+            "57d52bd1-53c1-4749-8c0e-1bf44856feb9",
+            "eb10527b-87b7-4bb4-b881-73a739b356b1",
+            "308646b5-a9d3-46c3-95c9-b39ac1d46be9",
+            "c315aa1c-cbe1-4745-9a06-f2e9d2aadd6e",
+            "4ec10aae-7f03-469f-9733-206063924279",
+            "830a65e3-0b50-453b-b290-8c92997a38af",
+            "0a4fb809-e957-4c5c-8dde-09c932b0ddaf",
+            "fadfcec3-b318-4a29-a7e6-3715d762c1ef",
+            "0a4c400a-9b84-43a1-8d71-c236cdcb8793",
+            "67e2cc68-7b8a-4a2f-8098-ee68ccdc227f"
+          ],
+          "query2": { "aggregations": [{ "property": "title", "aggregator": "count" }] },
+          "space_id": "1527a998-78d1-4636-a8c0-f1317a5261e6"
+        }
+      }
+    },
+    "notion_user": {},
+    "collection_query": {},
+    "signed_urls": {
+      "dd748ede-74e3-4bc2-9838-b973ebb490af": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/de57cf7c-af5d-4b1b-8f0b-489f36637fac/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220403%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220403T050410Z&X-Amz-Expires=86400&X-Amz-Signature=98a783e457fb8d3696a75e18c9b45160dc3958a4d555fe3703a407d341d9b1c6&X-Amz-SignedHeaders=host&x-id=GetObject"
+    }
+  }
+}
